@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>学习中心</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#dashboard" aria-label="学习中心首页"><span class="brand-mark" aria-hidden="true">学</span><span><strong>学习中心</strong><small>从幼小衔接到小学</small></span></a>
+    <nav class="main-nav" aria-label="主导航">
+      <a href="#dashboard" data-nav="dashboard">总览</a>
+      <a href="#plan" data-nav="plan">学习计划</a>
+      <button type="button" data-action="print">打印中心</button>
+    </nav>
+    <span class="mode-badge" data-profile-label>独立学习空间</span>
+  </header>
+
+  <main id="app" class="app-shell" aria-live="polite">
+    <div class="loading-state">正在打开学习中心...</div>
+  </main>
+
+  <footer class="site-footer" aria-label="项目链接">
+    <span>学习进度保存在本机浏览器</span>
+    <span class="footer-links" data-footer-links></span>
+  </footer>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

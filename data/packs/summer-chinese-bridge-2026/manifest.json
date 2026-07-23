@@ -1,0 +1,53 @@
+{
+  "id": "summer-chinese-bridge-2026",
+  "title": "幼小衔接暑假中文资料包",
+  "coverEmoji": "📚",
+  "audience": "幼小衔接暑假",
+  "description": "这是一套适合幼小衔接暑假的中文学习资料包，强调每天时间短一点、内容轻一点、能直接打开学习，也能做成 A4 打印页。",
+  "moduleCount": 5,
+  "rewardSummary": "完成晨读、识字和每周复盘可获得成长分",
+  "rewardRules": {
+    "morning-reading": 2,
+    "literacy-45days": 3,
+    "weekly-review": 5,
+    "dailyBundle": 1,
+    "default": 1
+  },
+  "modules": [
+    {
+      "id": "morning-reading",
+      "title": "60 天晨读",
+      "emoji": "🌞",
+      "duration": "60 天",
+      "summary": "短句、古诗、经典短文轮换，适合每天大声朗读。"
+    },
+    {
+      "id": "literacy-45days",
+      "title": "45 天识字",
+      "emoji": "✍️",
+      "duration": "45 天",
+      "summary": "每天 10 个字，配拼音、组词和简单例句。"
+    },
+    {
+      "id": "weekly-review",
+      "title": "每周复盘",
+      "emoji": "🗓️",
+      "duration": "每周 1 次",
+      "summary": "用一页轻量复盘卡，帮助家长看懂这一周学到了什么。"
+    },
+    {
+      "id": "poems",
+      "title": "古诗积累",
+      "emoji": "🏞️",
+      "duration": "拓展资源",
+      "summary": "挑短小、适合幼小衔接朗读的古诗。"
+    },
+    {
+      "id": "classics",
+      "title": "经典短句",
+      "emoji": "📜",
+      "duration": "拓展资源",
+      "summary": "精选《弟子规》与经典短句，和晨读节奏搭配使用。"
+    }
+  ]
+}

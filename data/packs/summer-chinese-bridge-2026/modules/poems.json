@@ -1,0 +1,427 @@
+{
+  "id": "poems",
+  "type": "reading",
+  "title": "古诗积累",
+  "lessons": [
+    {
+      "id": "item-01",
+      "title": "咏鹅",
+      "content": "鹅，鹅，鹅，曲项向天歌。\n白毛浮绿水，红掌拨清波。",
+      "pinyinContent": "é， é， é， qū xiàng xiàng tiān gē。\nbái máo fú lǜ shuǐ， hóng zhǎng bō qīng bō。",
+      "explanation": "这首诗写一只白鹅伸长脖子唱歌，白羽毛浮在绿水上，红脚掌轻轻拨开水波。"
+    },
+    {
+      "id": "item-02",
+      "title": "春晓",
+      "content": "春眠不觉晓，处处闻啼鸟。\n夜来风雨声，花落知多少。",
+      "pinyinContent": "chūn mián bù jué xiǎo， chù chù wén tí niǎo。\nyè lái fēng yǔ shēng， huā luò zhī duō shǎo。",
+      "explanation": "这首诗写春天早晨醒来时听见鸟叫，也想到昨夜风雨后花儿落了多少。"
+    },
+    {
+      "id": "item-03",
+      "title": "静夜思",
+      "content": "床前明月光，疑是地上霜。\n举头望明月，低头思故乡。",
+      "pinyinContent": "chuáng qián míng yuè guāng， yí shì dì shàng shuāng。\njǔ tóu wàng míng yuè， dī tóu sī gù xiāng。",
+      "explanation": "这首诗写夜晚的月光很亮，诗人抬头看月亮时，就想起了自己的家乡。"
+    },
+    {
+      "id": "item-04",
+      "title": "画",
+      "content": "远看山有色，近听水无声。\n春去花还在，人来鸟不惊。",
+      "pinyinContent": "yuǎn kàn shān yǒu sè， jìn tīng shuǐ wú shēng。\nchūn qù huā hái zài， rén lái niǎo bù jīng。",
+      "explanation": "这首诗写的是一幅画，所以走近听不见水声，花和鸟也不会真的动。"
+    },
+    {
+      "id": "item-05",
+      "title": "登鹳雀楼",
+      "content": "白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。",
+      "pinyinContent": "bái rì yī shān jìn， huáng hé rù hǎi liú。\nyù qióng qiān lǐ mù， gèng shàng yī céng lóu。",
+      "explanation": "这首诗告诉我们，想看得更远，就要再往高处走一步。"
+    },
+    {
+      "id": "item-06",
+      "title": "悯农",
+      "content": "锄禾日当午，汗滴禾下土。\n谁知盘中餐，粒粒皆辛苦。",
+      "pinyinContent": "chú hé rì dāng wǔ， hàn dī hé xià tǔ。\nshuí zhī pán zhōng cān， lì lì jiē xīn kǔ。",
+      "explanation": "这首诗告诉我们粮食来得很不容易，每一粒米都要珍惜。"
+    },
+    {
+      "id": "item-07",
+      "title": "池上",
+      "content": "小娃撑小艇，偷采白莲回。\n不解藏踪迹，浮萍一道开。",
+      "pinyinContent": "xiǎo wá chēng xiǎo tǐng， tōu cǎi bái lián huí。\nbù jiě cáng zōng jì， fú píng yī dào kāi。",
+      "explanation": "这首诗写一个小朋友悄悄采白莲，可是船划过后，水面的浮萍把痕迹都露出来了。"
+    },
+    {
+      "id": "item-08",
+      "title": "古朗月行",
+      "content": "小时不识月，呼作白玉盘。\n又疑瑶台镜，飞在青云端。",
+      "pinyinContent": "xiǎo shí bù shí yuè， hū zuò bái yù pán。\nyòu yí yáo tái jìng， fēi zài qīng yún duān。",
+      "explanation": "这首诗写孩子看月亮时的想象，觉得月亮像白玉盘，也像天上的镜子。"
+    },
+    {
+      "id": "item-09",
+      "title": "鹿柴",
+      "content": "空山不见人，但闻人语响。\n返景入深林，复照青苔上。",
+      "pinyinContent": "kōng shān bù jiàn rén， dàn wén rén yǔ xiǎng。\nfǎn jǐng rù shēn lín， fù zhào qīng tái shàng。",
+      "explanation": "这首诗写山林里很安静，只听见说话声，阳光照进树林和青苔，画面很美。"
+    },
+    {
+      "id": "item-10",
+      "title": "竹里馆",
+      "content": "独坐幽篁里，弹琴复长啸。\n深林人不知，明月来相照。",
+      "pinyinContent": "dú zuò yōu huáng lǐ， tán qín fù cháng xiào。\nshēn lín rén bù zhī， míng yuè lái xiāng zhào。",
+      "explanation": "这首诗写诗人一个人坐在竹林里弹琴长啸，只有明月静静陪着他。"
+    },
+    {
+      "id": "item-11",
+      "title": "鸟鸣涧",
+      "content": "人闲桂花落，夜静春山空。\n月出惊山鸟，时鸣春涧中。",
+      "pinyinContent": "rén xián guì huā luò， yè jìng chūn shān kōng。\nyuè chū jīng shān niǎo， shí míng chūn jiàn zhōng。",
+      "explanation": "这首诗写春夜山里非常安静，月亮升起时，小鸟偶尔叫几声。"
+    },
+    {
+      "id": "item-12",
+      "title": "相思",
+      "content": "红豆生南国，春来发几枝。\n愿君多采撷，此物最相思。",
+      "pinyinContent": "hóng dòu shēng nán guó， chūn lái fā jǐ zhī。\nyuàn jūn duō cǎi xié， cǐ wù zuì xiāng sī。",
+      "explanation": "这首诗借红豆来说思念，告诉朋友看到红豆就会想起彼此。"
+    },
+    {
+      "id": "item-13",
+      "title": "杂诗",
+      "content": "君自故乡来，应知故乡事。\n来日绮窗前，寒梅著花未。",
+      "pinyinContent": "jūn zì gù xiāng lái， yīng zhī gù xiāng shì。\nlái rì qǐ chuāng qián， hán méi zhù huā wèi。",
+      "explanation": "这首诗写诗人遇见从家乡来的人，最想知道家里的梅花开了没有。"
+    },
+    {
+      "id": "item-14",
+      "title": "山中送别",
+      "content": "山中相送罢，日暮掩柴扉。\n春草明年绿，王孙归不归。",
+      "pinyinContent": "shān zhōng xiāng sòng bà， rì mù yǎn chái fēi。\nchūn cǎo míng nián lǜ， wáng sūn guī bù guī。",
+      "explanation": "这首诗写送别朋友后的不舍，也盼着明年春天还能再见。"
+    },
+    {
+      "id": "item-15",
+      "title": "九月九日忆山东兄弟",
+      "content": "独在异乡为异客，每逢佳节倍思亲。\n遥知兄弟登高处，遍插茱萸少一人。",
+      "pinyinContent": "dú zài yì xiāng wèi yì kè， měi féng jiā jié bèi sī qīn。\nyáo zhī xiōng dì dēng gāo chù， biàn chā zhū yú shǎo yī rén。",
+      "explanation": "这首诗写人在外地过节时特别想家，也想念远方的兄弟姐妹。"
+    },
+    {
+      "id": "item-16",
+      "title": "送元二使安西",
+      "content": "渭城朝雨浥轻尘，客舍青青柳色新。\n劝君更尽一杯酒，西出阳关无故人。",
+      "pinyinContent": "wèi chéng cháo yǔ yì qīng chén， kè shě qīng qīng liǔ sè xīn。\nquàn jūn gèng jǐn yī bēi jiǔ， xī chū yáng guān wú gù rén。",
+      "explanation": "这首诗写送别朋友时的依依不舍，希望朋友一路平安。"
+    },
+    {
+      "id": "item-17",
+      "title": "终南望余雪",
+      "content": "终南阴岭秀，积雪浮云端。\n林表明霁色，城中增暮寒。",
+      "pinyinContent": "zhōng nán yīn lǐng xiù， jī xuě fú yún duān。\nlín biǎo míng jì sè， chéng zhōng zēng mù hán。",
+      "explanation": "这首诗写雪后的终南山很美，远远看去，山顶像和白云连在一起。"
+    },
+    {
+      "id": "item-18",
+      "title": "回乡偶书",
+      "content": "少小离家老大回，乡音无改鬓毛衰。\n儿童相见不相识，笑问客从何处来。",
+      "pinyinContent": "shào xiǎo lí jiā lǎo dà huí， xiāng yīn wú gǎi bìn máo cuī。\nér tóng xiāng jiàn bù xiāng shí， xiào wèn kè cóng hé chù lái。",
+      "explanation": "这首诗写诗人回到家乡时，孩子们已经认不出他来了。"
+    },
+    {
+      "id": "item-19",
+      "title": "咏柳",
+      "content": "碧玉妆成一树高，万条垂下绿丝绦。\n不知细叶谁裁出，二月春风似剪刀。",
+      "pinyinContent": "bì yù zhuāng chéng yī shù gāo， wàn tiáo chuí xià lǜ sī tāo。\nbù zhī xì yè shuí cái chū， èr yuè chūn fēng shì jiǎn dāo。",
+      "explanation": "这首诗把柳树写得像一位穿着绿衣裳的姑娘，春风像剪刀一样把叶子裁出来。"
+    },
+    {
+      "id": "item-20",
+      "title": "凉州词",
+      "content": "黄河远上白云间，一片孤城万仞山。\n羌笛何须怨杨柳，春风不度玉门关。",
+      "pinyinContent": "huáng hé yuǎn shàng bái yún jiān， yī piàn gū chéng wàn rèn shān。\nqiāng dí hé xū yuàn yáng liǔ， chūn fēng bù dù yù mén guān。",
+      "explanation": "这首诗写边塞的高远景色，也写出那里和中原很不一样的感觉。"
+    },
+    {
+      "id": "item-21",
+      "title": "出塞",
+      "content": "秦时明月汉时关，万里长征人未还。\n但使龙城飞将在，不教胡马度阴山。",
+      "pinyinContent": "qín shí míng yuè hàn shí guān， wàn lǐ cháng zhēng rén wèi hái。\ndàn shǐ lóng chéng fēi jiāng zài， bù jiào hú mǎ dù yīn shān。",
+      "explanation": "这首诗写守边的艰辛，也表达了希望边关安宁的心愿。"
+    },
+    {
+      "id": "item-22",
+      "title": "芙蓉楼送辛渐",
+      "content": "寒雨连江夜入吴，平明送客楚山孤。\n洛阳亲友如相问，一片冰心在玉壶。",
+      "pinyinContent": "hán yǔ lián jiāng yè rù wú， píng míng sòng kè chǔ shān gū。\nluò yáng qīn yǒu rú xiāng wèn， yī piàn bīng xīn zài yù hú。",
+      "explanation": "这首诗写送朋友离开时的真诚心意，也告诉大家自己心里很坦荡。"
+    },
+    {
+      "id": "item-23",
+      "title": "采莲曲",
+      "content": "荷叶罗裙一色裁，芙蓉向脸两边开。\n乱入池中看不见，闻歌始觉有人来。",
+      "pinyinContent": "hé yè luó qún yī sè cái， fú róng xiàng liǎn liǎng biān kāi。\nluàn rù chí zhōng kàn bú jiàn， wén gē shǐ jué yǒu rén lái。",
+      "explanation": "这首诗写采莲姑娘和荷花荷叶融在一起，远远看去像画一样。"
+    },
+    {
+      "id": "item-24",
+      "title": "早发白帝城",
+      "content": "朝辞白帝彩云间，千里江陵一日还。\n两岸猿声啼不住，轻舟已过万重山。",
+      "pinyinContent": "zhāo cí bái dì cǎi yún jiān， qiān lǐ jiāng líng yī rì huán。\nliǎng àn yuán shēng tí bù zhù， qīng zhōu yǐ guò wàn chóng shān。",
+      "explanation": "这首诗写坐船顺江而下的速度很快，山和水都在飞快向后退。"
+    },
+    {
+      "id": "item-25",
+      "title": "望庐山瀑布",
+      "content": "日照香炉生紫烟，遥看瀑布挂前川。\n飞流直下三千尺，疑是银河落九天。",
+      "pinyinContent": "rì zhào xiāng lú shēng zǐ yān， yáo kàn pù bù guà qián chuān。\nfēi liú zhí xià sān qiān chǐ， yí shì yín hé luò jiǔ tiān。",
+      "explanation": "这首诗把瀑布写得又高又亮，好像天上的银河掉下来一样。"
+    },
+    {
+      "id": "item-26",
+      "title": "赠汪伦",
+      "content": "李白乘舟将欲行，忽闻岸上踏歌声。\n桃花潭水深千尺，不及汪伦送我情。",
+      "pinyinContent": "lǐ bái chéng zhōu jiāng yù xíng， hū wén àn shàng tà gē shēng。\ntáo huā tán shuǐ shēn qiān chǐ， bù jí wāng lún sòng wǒ qíng。",
+      "explanation": "这首诗写朋友送别时的真挚感情，比深深的潭水还要深。"
+    },
+    {
+      "id": "item-27",
+      "title": "黄鹤楼送孟浩然之广陵",
+      "content": "故人西辞黄鹤楼，烟花三月下扬州。\n孤帆远影碧空尽，唯见长江天际流。",
+      "pinyinContent": "gù rén xī cí huáng hè lóu， yān huā sān yuè xià yáng zhōu。\ngū fān yuǎn yǐng bì kōng jǐn， wéi jiàn zhǎng jiāng tiān jì liú。",
+      "explanation": "这首诗写朋友坐船远去，最后只剩下长江一直流向天边。"
+    },
+    {
+      "id": "item-28",
+      "title": "夜宿山寺",
+      "content": "危楼高百尺，手可摘星辰。\n不敢高声语，恐惊天上人。",
+      "pinyinContent": "wēi lóu gāo bǎi chǐ， shǒu kě zhāi xīng chén。\nbù gǎn gāo shēng yǔ， kǒng jīng tiān shàng rén。",
+      "explanation": "这首诗把山寺写得特别高，好像伸手就能碰到星星。"
+    },
+    {
+      "id": "item-29",
+      "title": "独坐敬亭山",
+      "content": "众鸟高飞尽，孤云独去闲。\n相看两不厌，只有敬亭山。",
+      "pinyinContent": "zhòng niǎo gāo fēi jǐn， gū yún dú qù xián。\nxiāng kàn liǎng bù yàn， zhǐ yǒu jìng tíng shān。",
+      "explanation": "这首诗写诗人和敬亭山静静相对，觉得山像老朋友一样。"
+    },
+    {
+      "id": "item-30",
+      "title": "望天门山",
+      "content": "天门中断楚江开，碧水东流至此回。\n两岸青山相对出，孤帆一片日边来。",
+      "pinyinContent": "tiān mén zhōng duàn chǔ jiāng kāi， bì shuǐ dōng liú zhì cǐ huí。\nliǎng àn qīng shān xiāng duì chū， gū fān yī piàn rì biān lái。",
+      "explanation": "这首诗写大江、青山和小船一起出现，画面很开阔。"
+    },
+    {
+      "id": "item-31",
+      "title": "山中问答",
+      "content": "问余何意栖碧山，笑而不答心自闲。\n桃花流水窅然去，别有天地非人间。",
+      "pinyinContent": "wèn yú hé yì qī bì shān， xiào ér bù dá xīn zì xián。\ntáo huā liú shuǐ yǎo rán qù， bié yǒu tiān dì fēi rén jiān。",
+      "explanation": "这首诗写山里生活的自在与安静，好像进入了另一个清新的世界。"
+    },
+    {
+      "id": "item-32",
+      "title": "清明",
+      "content": "清明时节雨纷纷，路上行人欲断魂。\n借问酒家何处有，牧童遥指杏花村。",
+      "pinyinContent": "qīng míng shí jié yǔ fēn fēn， lù shàng xíng rén yù duàn hún。\njiè wèn jiǔ jiā hé chù yǒu， mù tóng yáo zhǐ xìng huā cūn。",
+      "explanation": "这首诗写清明时节细雨蒙蒙，远处还有牧童给人指路。"
+    },
+    {
+      "id": "item-33",
+      "title": "山行",
+      "content": "远上寒山石径斜，白云生处有人家。\n停车坐爱枫林晚，霜叶红于二月花。",
+      "pinyinContent": "yuǎn shàng hán shān shí jìng xié， bái yún shēng chù yǒu rén jiā。\ntíng chē zuò ài fēng lín wǎn， shuāng yè hóng yú èr yuè huā。",
+      "explanation": "这首诗写秋天山里的景色，红红的枫叶比春花还要鲜艳。"
+    },
+    {
+      "id": "item-34",
+      "title": "江南春",
+      "content": "千里莺啼绿映红，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+      "pinyinContent": "qiān lǐ yīng tí lǜ yìng hóng， shuǐ cūn shān guō jiǔ qí fēng。\nnán cháo sì bǎi bā shí sì， duō shǎo lóu tái yān yǔ zhōng。",
+      "explanation": "这首诗写江南春天又热闹又朦胧，到处都是鸟叫、花色和烟雨。"
+    },
+    {
+      "id": "item-35",
+      "title": "乐游原",
+      "content": "向晚意不适，驱车登古原。\n夕阳无限好，只是近黄昏。",
+      "pinyinContent": "xiàng wǎn yì bù shì， qū chē dēng gǔ yuán。\nxī yáng wú xiàn hǎo， zhǐ shì jìn huáng hūn。",
+      "explanation": "这首诗写傍晚登高看夕阳，虽然景色很美，却也提醒我们天快黑了。"
+    },
+    {
+      "id": "item-36",
+      "title": "风",
+      "content": "解落三秋叶，能开二月花。\n过江千尺浪，入竹万竿斜。",
+      "pinyinContent": "jiě luò sān qiū yè， néng kāi èr yuè huā。\nguò jiāng qiān chǐ làng， rù zhú wàn gān xié。",
+      "explanation": "这首诗写风看不见，却能吹落树叶、吹开花朵，也能让江水和竹子动起来。"
+    },
+    {
+      "id": "item-37",
+      "title": "蜂",
+      "content": "不论平地与山尖，无限风光尽被占。\n采得百花成蜜后，为谁辛苦为谁甜。",
+      "pinyinContent": "bù lùn píng dì yǔ shān jiān， wú xiàn fēng guāng jǐn bèi zhàn。\ncǎi dé bǎi huā chéng mì hòu， wèi shuí xīn kǔ wèi shuí tián。",
+      "explanation": "这首诗写蜜蜂不停采花酿蜜，也让人想到勤劳和分享。"
+    },
+    {
+      "id": "item-38",
+      "title": "江雪",
+      "content": "千山鸟飞绝，万径人踪灭。\n孤舟蓑笠翁，独钓寒江雪。",
+      "pinyinContent": "qiān shān niǎo fēi jué， wàn jìng rén zōng miè。\ngū zhōu suō lì wēng， dú diào hán jiāng xuě。",
+      "explanation": "这首诗写大雪中的江面非常安静，只看见一位老人在小船上垂钓。"
+    },
+    {
+      "id": "item-39",
+      "title": "寻隐者不遇",
+      "content": "松下问童子，言师采药去。\n只在此山中，云深不知处。",
+      "pinyinContent": "sōng xià wèn tóng zi， yán shī cǎi yào qù。\nzhǐ zài cǐ shān zhōng， yún shēn bù zhī chù。",
+      "explanation": "这首诗写去山里找人，却只知道他在云雾深处的山中。"
+    },
+    {
+      "id": "item-40",
+      "title": "逢雪宿芙蓉山主人",
+      "content": "日暮苍山远，天寒白屋贫。\n柴门闻犬吠，风雪夜归人。",
+      "pinyinContent": "rì mù cāng shān yuǎn， tiān hán bái wū pín。\nchái mén wén quǎn fèi， fēng xuě yè guī rén。",
+      "explanation": "这首诗写天色已晚、风雪很大时，远远听见狗叫，知道有人回家了。"
+    },
+    {
+      "id": "item-41",
+      "title": "八阵图",
+      "content": "功盖三分国，名成八阵图。\n江流石不转，遗恨失吞吴。",
+      "pinyinContent": "gōng gài sān fēn guó， míng chéng bā zhèn tú。\njiāng liú shí bù zhuǎn， yí hèn shī tūn wú。",
+      "explanation": "这首诗借江边石头和八阵图，赞叹古人的智慧与抱负。"
+    },
+    {
+      "id": "item-42",
+      "title": "绝句（两个黄鹂鸣翠柳）",
+      "content": "两个黄鹂鸣翠柳，一行白鹭上青天。\n窗含西岭千秋雪，门泊东吴万里船。",
+      "pinyinContent": "liǎng gè huáng lí míng cuì liǔ， yī xíng bái lù shàng qīng tiān。\nchuāng hán xī lǐng qiān qiū xuě， mén bó dōng wú wàn lǐ chuán。",
+      "explanation": "这首诗像一幅明亮的春景图，有黄鹂、白鹭、雪山和远来的船。"
+    },
+    {
+      "id": "item-43",
+      "title": "绝句（迟日江山丽）",
+      "content": "迟日江山丽，春风花草香。\n泥融飞燕子，沙暖睡鸳鸯。",
+      "pinyinContent": "chí rì jiāng shān lì， chūn fēng huā cǎo xiāng。\nní róng fēi yàn zi， shā nuǎn shuì yuān yāng。",
+      "explanation": "这首诗写春天阳光暖暖的，燕子在飞，鸳鸯在沙洲上安静休息。"
+    },
+    {
+      "id": "item-44",
+      "title": "江畔独步寻花·其六",
+      "content": "黄四娘家花满蹊，千朵万朵压枝低。\n留连戏蝶时时舞，自在娇莺恰恰啼。",
+      "pinyinContent": "huáng sì niáng jiā huā mǎn qī， qiān duǒ wàn duǒ yā zhī dī。\nliú lián xì dié shí shí wǔ， zì zài jiāo yīng qià qià tí。",
+      "explanation": "这首诗写花开得特别多，蝴蝶飞来飞去，小黄莺也在开心地叫。"
+    },
+    {
+      "id": "item-45",
+      "title": "枫桥夜泊",
+      "content": "月落乌啼霜满天，江枫渔火对愁眠。\n姑苏城外寒山寺，夜半钟声到客船。",
+      "pinyinContent": "yuè luò wū tí shuāng mǎn tiān， jiāng fēng yú huǒ duì chóu mián。\ngū sū chéng wài hán shān sì， yè bàn zhōng shēng dào kè chuán。",
+      "explanation": "这首诗写夜里停船时看到的月色、渔火和听到的钟声。"
+    },
+    {
+      "id": "item-46",
+      "title": "逢入京使",
+      "content": "故园东望路漫漫，双袖龙钟泪不干。\n马上相逢无纸笔，凭君传语报平安。",
+      "pinyinContent": "gù yuán dōng wàng lù màn màn， shuāng xiù lóng zhōng lèi bù gàn。\nmǎ shàng xiāng féng wú zhǐ bǐ， píng jūn chuán yǔ bào píng ān。",
+      "explanation": "这首诗写在路上偶遇回京的人，赶紧托他向家里报个平安。"
+    },
+    {
+      "id": "item-47",
+      "title": "宿建德江",
+      "content": "移舟泊烟渚，日暮客愁新。\n野旷天低树，江清月近人。",
+      "pinyinContent": "yí zhōu bó yān zhǔ， rì mù kè chóu xīn。\nyě kuàng tiān dī shù， jiāng qīng yuè jìn rén。",
+      "explanation": "这首诗写傍晚停船时看到空阔的原野和贴近人的月亮。"
+    },
+    {
+      "id": "item-48",
+      "title": "宿新市徐公店",
+      "content": "篱落疏疏一径深，树头新绿未成阴。\n儿童急走追黄蝶，飞入菜花无处寻。",
+      "pinyinContent": "lí luò shū shū yī jìng shēn， shù tóu xīn lǜ wèi chéng yīn。\nér tóng jí zǒu zhuī huáng dié， fēi rù cài huā wú chǔ xún。",
+      "explanation": "这首诗写乡村春天里，小朋友追黄蝴蝶追得特别开心。"
+    },
+    {
+      "id": "item-49",
+      "title": "小池",
+      "content": "泉眼无声惜细流，树阴照水爱晴柔。\n小荷才露尖尖角，早有蜻蜓立上头。",
+      "pinyinContent": "quán yǎn wú shēng xī xì liú， shù yīn zhào shuǐ ài qíng róu。\nxiǎo hé cái lù jiān jiān jiǎo， zǎo yǒu qīng tíng lì shàng tou。",
+      "explanation": "这首诗写夏天小池塘的样子，刚露出头的小荷叶上已经停着蜻蜓了。"
+    },
+    {
+      "id": "item-50",
+      "title": "晓出净慈寺送林子方",
+      "content": "毕竟西湖六月中，风光不与四时同。\n接天莲叶无穷碧，映日荷花别样红。",
+      "pinyinContent": "bì jìng xī hú liù yuè zhōng， fēng guāng bù yǔ sì shí tóng。\njiē tiān lián yè wú qióng bì， yìng rì hé huā bié yàng hóng。",
+      "explanation": "这首诗写夏天的西湖又大又亮，荷叶连成一片，荷花特别红。"
+    },
+    {
+      "id": "item-51",
+      "title": "梅花",
+      "content": "墙角数枝梅，凌寒独自开。\n遥知不是雪，为有暗香来。",
+      "pinyinContent": "qiáng jiǎo shù zhī méi， líng hán dú zì kāi。\nyáo zhī bú shì xuě， wèi yǒu àn xiāng lái。",
+      "explanation": "这首诗写寒冷的冬天里，梅花悄悄开放，还送来淡淡的香味。"
+    },
+    {
+      "id": "item-52",
+      "title": "元日",
+      "content": "爆竹声中一岁除，春风送暖入屠苏。\n千门万户曈曈日，总把新桃换旧符。",
+      "pinyinContent": "bào zhú shēng zhōng yī suì chú， chūn fēng sòng nuǎn rù tú sū。\nqiān mén wàn hù tóng tóng rì， zǒng bǎ xīn táo huàn jiù fú。",
+      "explanation": "这首诗写过年的热闹景象，家家户户都在迎接新的一年。"
+    },
+    {
+      "id": "item-53",
+      "title": "题西林壁",
+      "content": "横看成岭侧成峰，远近高低各不同。\n不识庐山真面目，只缘身在此山中。",
+      "pinyinContent": "héng kàn chéng lǐng cè chéng fēng， yuǎn jìn gāo dī gè bù tóng。\nbù shí lú shān zhēn miàn mù， zhǐ yuán shēn zài cǐ shān zhōng。",
+      "explanation": "这首诗告诉我们，从不同角度看事物，会看到不一样的样子。"
+    },
+    {
+      "id": "item-54",
+      "title": "惠崇春江晚景",
+      "content": "竹外桃花三两枝，春江水暖鸭先知。\n蒌蒿满地芦芽短，正是河豚欲上时。",
+      "pinyinContent": "zhú wài táo huā sān liǎng zhī， chūn jiāng shuǐ nuǎn yā xiān zhī。\nlóu hāo mǎn dì lú yá duǎn， zhèng shì hé tún yù shàng shí。",
+      "explanation": "这首诗写春天江边的变化，桃花开了，鸭子最先知道水变暖了。"
+    },
+    {
+      "id": "item-55",
+      "title": "饮湖上初晴后雨",
+      "content": "水光潋滟晴方好，山色空蒙雨亦奇。\n欲把西湖比西子，淡妆浓抹总相宜。",
+      "pinyinContent": "shuǐ guāng liàn yàn qíng fāng hǎo， shān sè kōng méng yǔ yì qí。\nyù bǎ xī hú bǐ xī zi， dàn zhuāng nóng mǒ zǒng xiāng yí。",
+      "explanation": "这首诗写西湖晴天和雨天都很美，就像一个人怎么打扮都好看。"
+    },
+    {
+      "id": "item-56",
+      "title": "三衢道中",
+      "content": "梅子黄时日日晴，小溪泛尽却山行。\n绿阴不减来时路，添得黄鹂四五声。",
+      "pinyinContent": "méi zi huáng shí rì rì qíng， xiǎo xī fàn jǐn què shān xíng。\nlǜ yīn bù jiǎn lái shí lù， tiān dé huáng lí sì wǔ shēng。",
+      "explanation": "这首诗写夏天旅行时一路树阴浓浓，还有黄鹂在耳边叫。"
+    },
+    {
+      "id": "item-57",
+      "title": "绝句（沾衣欲湿杏花雨）",
+      "content": "古木阴中系短篷，杖藜扶我过桥东。\n沾衣欲湿杏花雨，吹面不寒杨柳风。",
+      "pinyinContent": "gǔ mù yīn zhōng xì duǎn péng， zhàng lí fú wǒ guò qiáo dōng。\nzhān yī yù shī xìng huā yǔ， chuī miàn bù hán yáng liǔ fēng。",
+      "explanation": "这首诗写春天出门时的舒服感觉，细雨轻轻的，风吹在脸上也不冷。"
+    },
+    {
+      "id": "item-58",
+      "title": "所见",
+      "content": "牧童骑黄牛，歌声振林樾。\n意欲捕鸣蝉，忽然闭口立。",
+      "pinyinContent": "mù tóng qí huáng niú， gē shēng zhèn lín yuè。\nyì yù bǔ míng chán， hū rán bì kǒu lì。",
+      "explanation": "这首诗写牧童一边骑牛一边唱歌，听见蝉叫时立刻安静下来。"
+    },
+    {
+      "id": "item-59",
+      "title": "村居",
+      "content": "草长莺飞二月天，拂堤杨柳醉春烟。\n儿童散学归来早，忙趁东风放纸鸢。",
+      "pinyinContent": "cǎo zhǎng yīng fēi èr yuè tiān， fú dī yáng liǔ zuì chūn yān。\nér tóng sàn xué guī lái zǎo， máng chèn dōng fēng fàng zhǐ yuān。",
+      "explanation": "这首诗写春天的乡村景色，也写小朋友放风筝的快乐。"
+    },
+    {
+      "id": "item-60",
+      "title": "乞巧",
+      "content": "七夕今宵看碧霄，牵牛织女渡河桥。\n家家乞巧望秋月，穿尽红丝几万条。",
+      "pinyinContent": "qī xī jīn xiāo kàn bì xiāo， qiān niú zhī nǚ dù hé qiáo。\njiā jiā qǐ qiǎo wàng qiū yuè， chuān jǐn hóng sī jǐ wàn tiáo。",
+      "explanation": "这首诗写七夕夜晚大家望着月亮，想象牛郎织女相会，也盼着自己心灵手巧。"
+    }
+  ]
+}

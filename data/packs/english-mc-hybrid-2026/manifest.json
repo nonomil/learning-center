@@ -1,0 +1,69 @@
+{
+  "id": "english-mc-hybrid-2026",
+  "title": "Minecraft我的世界英语故事",
+  "coverEmoji": "🧩",
+  "audience": "Minecraft英语故事",
+  "description": "这是一套以 Minecraft 英语故事为主线的混合式资料包：在当前项目里看计划、看目标词、拿积分；打开外部点读页完成章节阅读后，再回到这里打勾记录。",
+  "moduleCount": 5,
+  "packType": "hybrid",
+  "contentMode": "external-plus-local",
+  "sourceAdapter": "mayihaoke-reader",
+  "customPackEnabled": true,
+  "rewardSummary": "每读完 1 节英语章节可得成长分，连续 3 节还有额外奖励",
+  "rewardRules": {
+    "story-chapter": 2,
+    "starters-chapter": 2,
+    "mcbook56-story": 2,
+    "mcbookstarters-reader": 2,
+    "english-weekly-review": 5,
+    "streakBonus": 1,
+    "default": 1
+  },
+  "streakRule": {
+    "every": 3,
+    "points": 1,
+    "rewardKey": "streakBonus",
+    "moduleIds": [
+      "mcbook56-story",
+      "mcbookstarters-reader"
+    ],
+    "title": "英语连读奖励"
+  },
+  "modules": [
+    {
+      "id": "mcbook56-story",
+      "title": "Minecraft我的世界英语故事",
+      "emoji": "📘",
+      "duration": "3 节起步",
+      "summary": "先从更贴近幼小衔接节奏的英语故事开始，先听再跟读，再回来打勾。"
+    },
+    {
+      "id": "mcbookstarters-reader",
+      "title": "Starters 启蒙阅读",
+      "emoji": "🔤",
+      "duration": "2 节起步",
+      "summary": "偏启蒙一点的英语阅读模块，帮助孩子进入简单词汇和句子的感觉。"
+    },
+    {
+      "id": "english-weekly-review",
+      "title": "每周英语复盘",
+      "emoji": "🗓️",
+      "duration": "每周 1 次",
+      "summary": "家长和孩子一起回看本周最熟的词、最喜欢的章节和下周继续读什么。"
+    },
+    {
+      "id": "custom-entry-slot",
+      "title": "自定义资料入口位",
+      "emoji": "🧰",
+      "duration": "预留接口",
+      "summary": "为后续接入老师链接、家长自定义资料包和更多英语网站预留统一入口。"
+    },
+    {
+      "id": "minecraft-vocab",
+      "title": "Minecraft 单词卡",
+      "emoji": "🔤",
+      "duration": "2,168 词全量池",
+      "summary": "把 Anki 官方词条与参考网站词卡合并到同一个可搜索、可播放、可计分的 Minecraft 英语学习池。"
+    }
+  ]
+}

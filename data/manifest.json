@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "projectId": "learning-center",
+  "title": "学习中心",
+  "subtitle": "从中文晨读、识字到小学阶段的持续学习空间",
+  "devProjectUrl": "http://127.0.0.1:7001/",
+  "projectUrl": "",
+  "links": {
+    "petbank": { "title": "宠物积分总站", "url": "", "devUrl": "http://127.0.0.1:7000/" },
+    "picturebooks": { "title": "独立绘本馆", "url": "", "devUrl": "http://127.0.0.1:5174/picturebook-library/" },
+    "wordQuest": { "title": "单词远征", "url": "", "devUrl": "http://127.0.0.1:7002/" },
+    "miniGames": { "title": "小游戏项目", "url": "", "devUrl": "http://127.0.0.1:7003/" }
+  },
+  "packs": [
+    {
+      "id": "summer-chinese-bridge-2026",
+      "title": "中文学习起步包",
+      "audience": "从幼小衔接到小学",
+      "emoji": "📚",
+      "summary": "晨读、识字、古诗和每周复盘，适合每天轻量推进。",
+      "plan": "data/packs/summer-chinese-bridge-2026/plan.json",
+      "modules": [
+        { "id": "morning-reading", "title": "60 天晨读", "emoji": "🌞", "type": "reading", "data": "data/packs/summer-chinese-bridge-2026/modules/morning-reading.json", "reward": { "growthPoints": 2, "petExp": 1 } },
+        { "id": "literacy-45days", "title": "45 天识字", "emoji": "✍️", "type": "literacy", "data": "data/packs/summer-chinese-bridge-2026/modules/literacy-45days.json", "reward": { "growthPoints": 3, "petExp": 1 } },
+        { "id": "weekly-review", "title": "每周复盘", "emoji": "🗓️", "type": "review", "data": "data/packs/summer-chinese-bridge-2026/modules/weekly-review.json", "reward": { "growthPoints": 5, "petExp": 2 } },
+        { "id": "poems", "title": "古诗积累", "emoji": "🏞️", "type": "reading", "data": "data/packs/summer-chinese-bridge-2026/modules/poems.json", "reward": { "growthPoints": 2, "petExp": 1 } },
+        { "id": "classics", "title": "经典短句", "emoji": "📜", "type": "reading", "data": "data/packs/summer-chinese-bridge-2026/modules/classics.json", "reward": { "growthPoints": 2, "petExp": 1 } }
+      ]
+    },
+    {
+      "id": "learning-sites-gateway-2026",
+      "title": "学习网站入口包",
+      "audience": "官方课程、工具和阅读入口",
+      "emoji": "🧭",
+      "summary": "先在学习中心选择入口，再打开外部网站学习，回来留下完成记录。",
+      "plan": "data/packs/learning-sites-gateway-2026/plan.json",
+      "modules": [
+        { "id": "guided-sites", "title": "网站学习入口", "emoji": "🌐", "type": "resource-hub", "data": "data/packs/learning-sites-gateway-2026/modules/guided-sites.json", "reward": { "growthPoints": 2, "petExp": 1 } },
+        { "id": "weekly-review", "title": "入口使用复盘", "emoji": "🗓️", "type": "review", "data": "data/packs/learning-sites-gateway-2026/modules/weekly-review.json", "reward": { "growthPoints": 5, "petExp": 2 } }
+      ]
+    },
+    {
+      "id": "english-mc-hybrid-2026",
+      "title": "Minecraft 英语故事",
+      "audience": "英语故事、跟读和单词衔接",
+      "emoji": "🧩",
+      "summary": "先听故事、跟读和记录，再把需要反复练习的单词交给独立单词项目。",
+      "plan": "data/packs/english-mc-hybrid-2026/plan.json",
+      "modules": [
+        { "id": "mcbook56-story", "title": "Minecraft 英语故事", "emoji": "📘", "type": "resource-hub", "data": "data/packs/english-mc-hybrid-2026/modules/mcbook56-story.json", "reward": { "growthPoints": 2, "petExp": 1 } },
+        { "id": "mcbookstarters-reader", "title": "Starters 启蒙阅读", "emoji": "🔤", "type": "resource-hub", "data": "data/packs/english-mc-hybrid-2026/modules/mcbookstarters-reader.json", "reward": { "growthPoints": 2, "petExp": 1 } },
+        { "id": "english-weekly-review", "title": "每周英语复盘", "emoji": "🗓️", "type": "review", "data": "data/packs/english-mc-hybrid-2026/modules/english-weekly-review.json", "reward": { "growthPoints": 5, "petExp": 2 } },
+        { "id": "custom-entry-slot", "title": "自定义资料入口", "emoji": "🧰", "type": "resource-hub", "data": "data/packs/english-mc-hybrid-2026/modules/custom-entry-slot.json", "reward": { "growthPoints": 1, "petExp": 1 } },
+        { "id": "minecraft-vocab", "title": "Minecraft 单词远征", "emoji": "🎮", "type": "external", "project": "wordQuest", "reward": { "growthPoints": 0, "petExp": 0 } }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "id": "morning-reading",
+  "type": "reading",
+  "title": "60 天晨读",
+  "lessons": [
+    {
+      "id": "day-01",
+      "day": 1,
+      "title": "你好，暑假",
+      "content": "早上好，太阳笑。小朋友，起得早。",
+      "pinyinContent": "zǎo shàng hǎo， tài yáng xiào。 xiǎo péng yǒu， qǐ dé zǎo。",
+      "focus": "先把中文节奏找回来。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-02",
+      "day": 2,
+      "title": "我爱读中文",
+      "content": "我爱读书，也爱写字。一天一点点，中文更熟了。",
+      "pinyinContent": "wǒ ài dú shū， yě ài xiě zì。 yī tiān yī diǎn diǎn， zhōng wén gèng shú le。",
+      "focus": "用轻量晨读进入状态。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-03",
+      "day": 3,
+      "title": "洗脸刷牙",
+      "content": "洗脸刷牙，把手洗。干干净净去吃早饭。",
+      "pinyinContent": "xǐ liǎn shuā yá， bǎ shǒu xǐ。 gān gān jìng jìng qù chī zǎo fàn。",
+      "focus": "把生活习惯和中文词语连起来。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-04",
+      "day": 4,
+      "title": "见面问好",
+      "content": "见到老师说你好，见到朋友问个好。",
+      "pinyinContent": "jiàn dào lǎo shī shuō nǐ hǎo， jiàn dào péng yǒu wèn gè hǎo。",
+      "focus": "练习礼貌问候。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-05",
+      "day": 5,
+      "title": "书包准备好",
+      "content": "书包里，有书本。有笔和本，也有水。",
+      "pinyinContent": "shū bāo lǐ， yǒu shū běn。 yǒu bǐ hé běn， yě yǒu shuǐ。",
+      "focus": "熟悉上学常用物品。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-06",
+      "day": 6,
+      "title": "一起去学校",
+      "content": "坐下读书，站好排队。大家一起学。",
+      "pinyinContent": "zuò xià dú shū， zhàn hǎo pái duì。 dà jiā yī qǐ xué。",
+      "focus": "适应学校场景。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-07",
+      "day": 7,
+      "title": "小手来帮忙",
+      "content": "小手来帮忙，收好书，放好笔。",
+      "pinyinContent": "xiǎo shǒu lái bāng máng， shōu hǎo shū， fàng hǎo bǐ。",
+      "focus": "让孩子感到自己做得到。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-08",
+      "day": 8,
+      "title": "上课和下课",
+      "content": "上课眼看老师，下课一起玩。",
+      "pinyinContent": "shàng kè yǎn kàn lǎo shī， xià kè yī qǐ wán。",
+      "focus": "认识课堂节奏。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-09",
+      "day": 9,
+      "title": "今天读一点",
+      "content": "今天会读一个字，明天再读一个字。",
+      "pinyinContent": "jīn tiān huì dú yī gè zì， míng tiān zài dú yī gè zì。",
+      "focus": "建立持续感。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-10",
+      "day": 10,
+      "title": "自己来做",
+      "content": "我会自己穿衣，也会自己回家。",
+      "pinyinContent": "wǒ huì zì jǐ chuān yī， yě huì zì jǐ huí jiā。",
+      "focus": "强化独立意识。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-11",
+      "day": 11,
+      "title": "吃饭前洗手",
+      "content": "吃饭前，要洗手。吃饭时，小口慢慢吃。",
+      "pinyinContent": "chī fàn qián， yào xǐ shǒu。 chī fàn shí， xiǎo kǒu màn màn chī。",
+      "focus": "口语化习惯短句。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-12",
+      "day": 12,
+      "title": "喝水不着急",
+      "content": "喝水不着急，一口一口喝。",
+      "pinyinContent": "hē shuǐ bù zháo jí， yī kǒu yī kǒu hē。",
+      "focus": "让朗读贴近日常。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-13",
+      "day": 13,
+      "title": "早睡早起",
+      "content": "早睡早起，白天有精神。",
+      "pinyinContent": "zǎo shuì zǎo qǐ， bái tiān yǒu jīng shén。",
+      "focus": "复现家庭常说的生活句。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-14",
+      "day": 14,
+      "title": "坐正看书",
+      "content": "看书要坐正，写字要安静。",
+      "pinyinContent": "kàn shū yào zuò zhèng， xiě zì yào ān jìng。",
+      "focus": "为小学课堂习惯做铺垫。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-15",
+      "day": 15,
+      "title": "学会排队",
+      "content": "学会排队，不抢不闹。",
+      "pinyinContent": "xué huì pái duì， bù qiǎng bù nào。",
+      "focus": "建立规则意识。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-16",
+      "day": 16,
+      "title": "先听再说",
+      "content": "有人说话，我先听。轮到我，再开口。",
+      "pinyinContent": "yǒu rén shuō huà， wǒ xiān tīng。 lún dào wǒ， zài kāi kǒu。",
+      "focus": "帮助孩子适应集体表达。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-17",
+      "day": 17,
+      "title": "会说谢谢",
+      "content": "做错了事，说对不起。别人帮我，说谢谢。",
+      "pinyinContent": "zuò cuò le shì， shuō duì bù qǐ。 bié rén bāng wǒ， shuō xiè xiè。",
+      "focus": "礼貌表达。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-18",
+      "day": 18,
+      "title": "请你先来",
+      "content": "请你先来，我在后面等一等。",
+      "pinyinContent": "qǐng nǐ xiān lái， wǒ zài hòu miàn děng yī děng。",
+      "focus": "排队和等待。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-19",
+      "day": 19,
+      "title": "东西放回去",
+      "content": "东西用完放回去，房间就会更整齐。",
+      "pinyinContent": "dōng xī yòng wán fàng huí qù， fáng jiān jiù huì gèng zhěng qí。",
+      "focus": "收纳习惯。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-20",
+      "day": 20,
+      "title": "一点一点做",
+      "content": "今天做一点，明天再做一点，好习惯慢慢长大。",
+      "pinyinContent": "jīn tiān zuò yī diǎn， míng tiān zài zuò yī diǎn， hǎo xí guàn màn màn zhǎng dà。",
+      "focus": "强调积累。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-21",
+      "day": 21,
+      "title": "全家吃早饭",
+      "content": "爸爸上班，妈妈做饭。我也来帮一点。",
+      "pinyinContent": "bà bà shàng bān， mā mā zuò fàn。 wǒ yě lái bāng yī diǎn。",
+      "focus": "家庭场景。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-22",
+      "day": 22,
+      "title": "说说今天做什么",
+      "content": "全家一起吃早饭，说说今天做什么。",
+      "pinyinContent": "quán jiā yī qǐ chī zǎo fàn， shuō shuō jīn tiān zuò shén me。",
+      "focus": "完整口语场景。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-23",
+      "day": 23,
+      "title": "爷爷奶奶",
+      "content": "爷爷爱看报，奶奶爱种花。",
+      "pinyinContent": "yé yé ài kàn bào， nǎi nǎi ài zhǒng huā。",
+      "focus": "家庭成员识别。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-24",
+      "day": 24,
+      "title": "回到家里",
+      "content": "回到家里，先放书包，再换鞋。",
+      "pinyinContent": "huí dào jiā lǐ， xiān fàng shū bāo， zài huàn xié。",
+      "focus": "放学回家动线。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-25",
+      "day": 25,
+      "title": "晚上听故事",
+      "content": "晚上一起看书，听一个小故事。",
+      "pinyinContent": "wǎn shàng yī qǐ kàn shū， tīng yī gè xiǎo gù shì。",
+      "focus": "把朗读和故事连接起来。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-26",
+      "day": 26,
+      "title": "给家人帮忙",
+      "content": "我给妈妈拿水杯，也给爸爸拿纸巾。",
+      "pinyinContent": "wǒ gěi mā mā ná shuǐ bēi， yě gěi bà bà ná zhǐ jīn。",
+      "focus": "帮助家人。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-27",
+      "day": 27,
+      "title": "家里有爱",
+      "content": "家里有爱，心里有光。",
+      "pinyinContent": "jiā lǐ yǒu ài， xīn lǐ yǒu guāng。",
+      "focus": "温暖稳定的句子。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-28",
+      "day": 28,
+      "title": "朋友来家里",
+      "content": "朋友来家里玩，一起看书，一起说话。",
+      "pinyinContent": "péng yǒu lái jiā lǐ wán， yī qǐ kàn shū， yī qǐ shuō huà。",
+      "focus": "社交场景。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-29",
+      "day": 29,
+      "title": "我爱我的家",
+      "content": "我爱我的家，也爱家里每一个人。",
+      "pinyinContent": "wǒ ài wǒ de jiā， yě ài jiā lǐ měi yī gè rén。",
+      "focus": "重复句式帮助朗读。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-30",
+      "day": 30,
+      "title": "睡前说晚安",
+      "content": "睡前说晚安，做个甜甜的梦。",
+      "pinyinContent": "shuì qián shuō wǎn ān， zuò gè tián tián de mèng。",
+      "focus": "结束一天。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-31",
+      "day": 31,
+      "title": "春天来了",
+      "content": "春天花开，小草变绿。",
+      "pinyinContent": "chūn tiān huā kāi， xiǎo cǎo biàn lǜ。",
+      "focus": "季节词。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-32",
+      "day": 32,
+      "title": "夏天的树下",
+      "content": "夏天太阳大，树下有凉风。",
+      "pinyinContent": "xià tiān tài yáng dà， shù xià yǒu liáng fēng。",
+      "focus": "自然观察。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-33",
+      "day": 33,
+      "title": "秋天果子红",
+      "content": "秋天果子红，田里稻子黄。",
+      "pinyinContent": "qiū tiān guǒ zǐ hóng， tián lǐ dào zǐ huáng。",
+      "focus": "颜色和季节。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-34",
+      "day": 34,
+      "title": "冬天有点冷",
+      "content": "冬天风有点冷，手要放进口袋。",
+      "pinyinContent": "dōng tiān fēng yǒu diǎn lěng， shǒu yào fàng jìn kǒu dài。",
+      "focus": "穿插生活提醒。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-35",
+      "day": 35,
+      "title": "白云和小鸟",
+      "content": "白云在天上，鸟儿在树上。",
+      "pinyinContent": "bái yún zài tiān shàng， niǎo ér zài shù shàng。",
+      "focus": "位置词。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-36",
+      "day": 36,
+      "title": "小河和小鱼",
+      "content": "小河向前跑，小鱼在水里游。",
+      "pinyinContent": "xiǎo hé xiàng qián pǎo， xiǎo yú zài shuǐ lǐ yóu。",
+      "focus": "拟人化朗读。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-37",
+      "day": 37,
+      "title": "月亮和星星",
+      "content": "月亮像小船，星星眨眨眼。",
+      "pinyinContent": "yuè liàng xiàng xiǎo chuán， xīng xīng zhǎ zhǎ yǎn。",
+      "focus": "夜晚想象。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-38",
+      "day": 38,
+      "title": "下雨的时候",
+      "content": "下雨的时候，听雨点说话。",
+      "pinyinContent": "xià yǔ de shí hòu， tīng yǔ diǎn shuō huà。",
+      "focus": "培养语感。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-39",
+      "day": 39,
+      "title": "雪花来了",
+      "content": "雪花从天上来，大地变白了。",
+      "pinyinContent": "xuě huā cóng tiān shàng lái， dà dì biàn bái le。",
+      "focus": "冬季画面。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-40",
+      "day": 40,
+      "title": "看到山和海",
+      "content": "看到山，想到远方。看到海，想到大船。",
+      "pinyinContent": "kàn dào shān， xiǎng dào yuǎn fāng。 kàn dào hǎi， xiǎng dào dà chuán。",
+      "focus": "视野拓展。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-41",
+      "day": 41,
+      "title": "排排坐",
+      "content": "一二三，排排坐。四五六，拍拍手。",
+      "pinyinContent": "yī èr sān， pái pái zuò。 sì wǔ liù， pāi pāi shǒu。",
+      "focus": "数数节奏。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-42",
+      "day": 42,
+      "title": "上下左右",
+      "content": "上下左右看一看，前后来回走一走。",
+      "pinyinContent": "shàng xià zuǒ yòu kàn yī kàn， qián hòu lái huí zǒu yī zǒu。",
+      "focus": "空间方向。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-43",
+      "day": 43,
+      "title": "大的帮小的",
+      "content": "大的帮小的，多的分少的。",
+      "pinyinContent": "dà de bāng xiǎo de， duō de fēn shǎo de。",
+      "focus": "比较关系。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-44",
+      "day": 44,
+      "title": "星期有顺序",
+      "content": "今天是星期一，明天就是星期二。",
+      "pinyinContent": "jīn tiān shì xīng qī yī， míng tiān jiù shì xīng qī èr。",
+      "focus": "时间概念。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-45",
+      "day": 45,
+      "title": "早上和晚上",
+      "content": "早上读一读，晚上想一想。",
+      "pinyinContent": "zǎo shàng dú yī dú， wǎn shàng xiǎng yī xiǎng。",
+      "focus": "晨读和回顾。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-46",
+      "day": 46,
+      "title": "会等时间",
+      "content": "我会看时间，也会等时间。",
+      "pinyinContent": "wǒ huì kàn shí jiān， yě huì děng shí jiān。",
+      "focus": "时间意识。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-47",
+      "day": 47,
+      "title": "红花和白云",
+      "content": "红花开，白云飞，青山真好看。",
+      "pinyinContent": "hóng huā kāi， bái yún fēi， qīng shān zhēn hǎo kàn。",
+      "focus": "颜色观察。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-48",
+      "day": 48,
+      "title": "白天和黑夜",
+      "content": "黑夜里有月亮，白天里有太阳。",
+      "pinyinContent": "hēi yè lǐ yǒu yuè liàng， bái tiān lǐ yǒu tài yáng。",
+      "focus": "昼夜切换。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-49",
+      "day": 49,
+      "title": "数字不害怕",
+      "content": "看到数字不害怕，一个一个慢慢来。",
+      "pinyinContent": "kàn dào shù zì bù hài pà， yī gè yī gè màn màn lái。",
+      "focus": "减轻数学焦虑。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-50",
+      "day": 50,
+      "title": "今天比昨天",
+      "content": "今天比昨天更会读，明天比今天更会写。",
+      "pinyinContent": "jīn tiān bǐ zuó tiān gèng huì dú， míng tiān bǐ jīn tiān gèng huì xiě。",
+      "focus": "看见进步。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-51",
+      "day": 51,
+      "title": "讲礼貌",
+      "content": "小朋友，讲礼貌。见面问好，分别说再见。",
+      "pinyinContent": "xiǎo péng yǒu， jiǎng lǐ mào。 jiàn miàn wèn hǎo， fēn bié shuō zài jiàn。",
+      "focus": "礼貌表达。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-52",
+      "day": 52,
+      "title": "你帮我，我帮你",
+      "content": "你帮我，我帮你，大家都是好朋友。",
+      "pinyinContent": "nǐ bāng wǒ， wǒ bāng nǐ， dà jiā dōu shì hǎo péng yǒu。",
+      "focus": "合作句式。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-53",
+      "day": 53,
+      "title": "我会分享",
+      "content": "我会分享，也会等一等。",
+      "pinyinContent": "wǒ huì fēn xiǎng， yě huì děng yī děng。",
+      "focus": "社交节奏。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-54",
+      "day": 54,
+      "title": "学中文不着急",
+      "content": "学中文，不着急。天天读，就会有进步。",
+      "pinyinContent": "xué zhōng wén， bù zháo jí。 tiān tiān dú， jiù huì yǒu jìn bù。",
+      "focus": "降低压力。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-55",
+      "day": 55,
+      "title": "不会的字",
+      "content": "看到不会的字，先多看，再多读。",
+      "pinyinContent": "kàn dào bù huì de zì， xiān duō kàn， zài duō dú。",
+      "focus": "遇到困难时的策略。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-56",
+      "day": 56,
+      "title": "点亮小星星",
+      "content": "学会一个字，就像点亮一颗小星星。",
+      "pinyinContent": "xué huì yī gè zì， jiù xiàng diǎn liàng yī kē xiǎo xīng xīng。",
+      "focus": "学习激励。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-57",
+      "day": 57,
+      "title": "咏鹅",
+      "content": "鹅，鹅，鹅，曲项向天歌。",
+      "pinyinContent": "é， é， é， qū xiàng xiàng tiān gē。",
+      "focus": "用熟悉的古诗进入文言节奏。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-58",
+      "day": 58,
+      "title": "静夜思",
+      "content": "床前明月光，疑是地上霜。",
+      "pinyinContent": "chuáng qián míng yuè guāng， yí shì dì shàng shuāng。",
+      "focus": "朗朗上口的古诗。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-59",
+      "day": 59,
+      "title": "弟子规一",
+      "content": "父母呼，应勿缓。父母命，行勿懒。",
+      "pinyinContent": "fù mǔ hū， yīng wù huǎn。 fù mǔ mìng， xíng wù lǎn。",
+      "focus": "经典短句启蒙。",
+      "estimatedMinutes": 5
+    },
+    {
+      "id": "day-60",
+      "day": 60,
+      "title": "天天读一点",
+      "content": "天天读一点，上学更轻松。",
+      "pinyinContent": "tiān tiān dú yī diǎn， shàng xué gèng qīng sōng。",
+      "focus": "以积极句子收束整个资料包。",
+      "estimatedMinutes": 5
+    }
+  ]
+}
