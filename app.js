@@ -62,7 +62,7 @@ function activeLink(key) {
 function linkMarkup(key, label = state.manifest?.links?.[key]?.title || '打开项目') {
   const url = activeLink(key);
   return url
-    ? `<a class="button button-quiet" href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(label)}</a>`
+    ? `<a class="button button-quiet" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)}</a>`
     : `<span class="button button-quiet pending-link" aria-disabled="true">${escapeHtml(label)}（发布地址待确认）</span>`;
 }
 
@@ -254,7 +254,7 @@ function initFooter() {
   footerLinks.innerHTML = ['petbank', 'picturebooks', 'wordQuest', 'miniGames'].map((key) => {
     const link = state.manifest.links[key];
     const url = activeLink(key);
-    return url ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(link.title)}</a>` : `<span class="pending-link">${escapeHtml(link.title)}待发布</span>`;
+    return url ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(link.title)}</a>` : `<span class="pending-link">${escapeHtml(link.title)}待发布</span>`;
   }).join('');
 }
 
