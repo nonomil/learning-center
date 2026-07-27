@@ -1,0 +1,2617 @@
+{
+  "id": "literacy-45days",
+  "type": "literacy",
+  "title": "45 天识字",
+  "lessons": [
+    {
+      "id": "day-01",
+      "day": 1,
+      "title": "识字练习 01",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "山",
+          "pinyin": "shān",
+          "example": "我们一起去爬山。"
+        },
+        {
+          "char": "水",
+          "pinyin": "shuǐ",
+          "example": "小鱼在水里游。"
+        },
+        {
+          "char": "火",
+          "pinyin": "huǒ",
+          "example": "冬天烤火真暖和。"
+        },
+        {
+          "char": "木",
+          "pinyin": "mù",
+          "example": "这是一棵大木头。"
+        },
+        {
+          "char": "日",
+          "pinyin": "rì",
+          "example": "日头升起来了。"
+        },
+        {
+          "char": "月",
+          "pinyin": "yuè",
+          "example": "天上挂着一轮明月。"
+        },
+        {
+          "char": "石",
+          "pinyin": "shí",
+          "example": "路边有一块大石头。"
+        },
+        {
+          "char": "田",
+          "pinyin": "tián",
+          "example": "农民伯伯在田里种稻。"
+        },
+        {
+          "char": "人",
+          "pinyin": "rén",
+          "example": "路上行人很多。"
+        },
+        {
+          "char": "口",
+          "pinyin": "kǒu",
+          "example": "张开小口吃苹果。"
+        }
+      ]
+    },
+    {
+      "id": "day-02",
+      "day": 2,
+      "title": "识字练习 02",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "手",
+          "pinyin": "shǒu",
+          "example": "我举起小手回答问题。"
+        },
+        {
+          "char": "目",
+          "pinyin": "mù",
+          "example": "他双目炯炯有神。"
+        },
+        {
+          "char": "云",
+          "pinyin": "yún",
+          "example": "蓝天上飘着白云。"
+        },
+        {
+          "char": "雨",
+          "pinyin": "yǔ",
+          "example": "外面正在下雨呢。"
+        },
+        {
+          "char": "风",
+          "pinyin": "fēng",
+          "example": "秋风吹得树叶飘。"
+        },
+        {
+          "char": "花",
+          "pinyin": "huā",
+          "example": "春天花儿都开了。"
+        },
+        {
+          "char": "草",
+          "pinyin": "cǎo",
+          "example": "小草从地里钻出来。"
+        },
+        {
+          "char": "树",
+          "pinyin": "shù",
+          "example": "树下乘凉真舒服。"
+        },
+        {
+          "char": "鸟",
+          "pinyin": "niǎo",
+          "example": "小鸟在枝头唱歌。"
+        },
+        {
+          "char": "马",
+          "pinyin": "mǎ",
+          "example": "草原上跑着一匹马。"
+        }
+      ]
+    },
+    {
+      "id": "day-03",
+      "day": 3,
+      "title": "识字练习 03",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "星",
+          "pinyin": "xīng",
+          "example": "夜晚满天都是小星星。"
+        },
+        {
+          "char": "光",
+          "pinyin": "guāng",
+          "example": "太阳光照亮大地。"
+        },
+        {
+          "char": "明",
+          "pinyin": "míng",
+          "example": "屋子里的灯很明亮。"
+        },
+        {
+          "char": "林",
+          "pinyin": "lín",
+          "example": "这片森林很大。"
+        },
+        {
+          "char": "河",
+          "pinyin": "hé",
+          "example": "小河哗哗地流。"
+        },
+        {
+          "char": "海",
+          "pinyin": "hǎi",
+          "example": "海里有很多鱼。"
+        },
+        {
+          "char": "书",
+          "pinyin": "shū",
+          "example": "我每天都要读书。"
+        },
+        {
+          "char": "笔",
+          "pinyin": "bǐ",
+          "example": "用铅笔写字。"
+        },
+        {
+          "char": "车",
+          "pinyin": "chē",
+          "example": "我家新买了一辆车。"
+        },
+        {
+          "char": "船",
+          "pinyin": "chuán",
+          "example": "江上有一只小船。"
+        }
+      ]
+    },
+    {
+      "id": "day-04",
+      "day": 4,
+      "title": "识字练习 04",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "一",
+          "pinyin": "yī",
+          "example": "今天我吃了一个苹果"
+        },
+        {
+          "char": "七",
+          "pinyin": "qī",
+          "example": "我有七个彩色气球。"
+        },
+        {
+          "char": "三",
+          "pinyin": "sān",
+          "example": "一加二等于三。"
+        },
+        {
+          "char": "上",
+          "pinyin": "shàng",
+          "example": "今天我要上学去。"
+        },
+        {
+          "char": "下",
+          "pinyin": "xià",
+          "example": "秋天到了，树叶飘下来。"
+        },
+        {
+          "char": "不",
+          "pinyin": "bù",
+          "example": "我不会放弃我的梦想"
+        },
+        {
+          "char": "东",
+          "pinyin": "dōng",
+          "example": "太阳从东边升起来。"
+        },
+        {
+          "char": "两",
+          "pinyin": "liǎng",
+          "example": "今天小明吃了两碗米饭"
+        },
+        {
+          "char": "个",
+          "pinyin": "gè",
+          "example": "他是个好学生。"
+        },
+        {
+          "char": "中",
+          "pinyin": "zhōng",
+          "example": "中间有一棵大树。"
+        }
+      ]
+    },
+    {
+      "id": "day-05",
+      "day": 5,
+      "title": "识字练习 05",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "么",
+          "pinyin": "me",
+          "example": "你最喜欢吃什么?"
+        },
+        {
+          "char": "九",
+          "pinyin": "jiǔ",
+          "example": "今天学了数字九。"
+        },
+        {
+          "char": "也",
+          "pinyin": "yě",
+          "example": "我也想去公园玩。"
+        },
+        {
+          "char": "习",
+          "pinyin": "xí",
+          "example": "我们要养成好习惯。"
+        },
+        {
+          "char": "买",
+          "pinyin": "mǎi",
+          "example": "妈妈给我买了一个新书包。"
+        },
+        {
+          "char": "了",
+          "pinyin": "le",
+          "example": "我和朋友一起玩了游戏。"
+        },
+        {
+          "char": "事",
+          "pinyin": "shì",
+          "example": "我们认真做事。"
+        },
+        {
+          "char": "二",
+          "pinyin": "èr",
+          "example": "我有一个二元硬币。"
+        },
+        {
+          "char": "五",
+          "pinyin": "wǔ",
+          "example": "我有五个彩色气球。"
+        },
+        {
+          "char": "些",
+          "pinyin": "xiē",
+          "example": "我每天都吃些水果和蔬菜。"
+        }
+      ]
+    },
+    {
+      "id": "day-06",
+      "day": 6,
+      "title": "识字练习 06",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "京",
+          "pinyin": "jīng",
+          "example": "京是中国的首都。"
+        },
+        {
+          "char": "什",
+          "pinyin": "shén",
+          "example": "你在做什么呢"
+        },
+        {
+          "char": "今",
+          "pinyin": "jīn",
+          "example": "从今以后我要好好学习"
+        },
+        {
+          "char": "介",
+          "pinyin": "jiè",
+          "example": "请你介绍一下你自己。"
+        },
+        {
+          "char": "从",
+          "pinyin": "cóng",
+          "example": "小朋友从家里出发去上学。"
+        },
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "example": "他是我的好伙伴。"
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "example": "我们一起去公园玩。"
+        },
+        {
+          "char": "休",
+          "pinyin": "xiū",
+          "example": "休息好了才能精神饱满地学习"
+        },
+        {
+          "char": "会",
+          "pinyin": "huì",
+          "example": "我会自己整理书包。"
+        },
+        {
+          "char": "住",
+          "pinyin": "zhù",
+          "example": "我住在美丽的城市里"
+        }
+      ]
+    },
+    {
+      "id": "day-07",
+      "day": 7,
+      "title": "识字练习 07",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "体",
+          "pinyin": "tǐ",
+          "example": "我爱体育运动。"
+        },
+        {
+          "char": "作",
+          "pinyin": "zuò",
+          "example": "我在认真写作业。"
+        },
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "example": "你真是一个聪明的小朋友。"
+        },
+        {
+          "char": "候",
+          "pinyin": "hòu",
+          "example": "等候公交车要耐心排队。"
+        },
+        {
+          "char": "做",
+          "pinyin": "zuò",
+          "example": "我们一起来做手工吧。"
+        },
+        {
+          "char": "儿",
+          "pinyin": "ér",
+          "example": "妈妈爱她的儿子。"
+        },
+        {
+          "char": "元",
+          "pinyin": "yuán",
+          "example": "元旦是新年第一天。"
+        },
+        {
+          "char": "先",
+          "pinyin": "xiān",
+          "example": "我们先完成作业再看电视。"
+        },
+        {
+          "char": "八",
+          "pinyin": "bā",
+          "example": "小明一共有八个好朋友。"
+        },
+        {
+          "char": "六",
+          "pinyin": "liù",
+          "example": "我有六个苹果。"
+        }
+      ]
+    },
+    {
+      "id": "day-08",
+      "day": 8,
+      "title": "识字练习 08",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "关",
+          "pinyin": "guān",
+          "example": "请关上那扇门。"
+        },
+        {
+          "char": "兴",
+          "pinyin": "xīng",
+          "example": "我们为祖国的兴旺感到自豪。"
+        },
+        {
+          "char": "再",
+          "pinyin": "zài",
+          "example": "我们再玩一会儿。"
+        },
+        {
+          "char": "写",
+          "pinyin": "xiě",
+          "example": "我们每天都要认真写作业。"
+        },
+        {
+          "char": "冷",
+          "pinyin": "lěng",
+          "example": "冬天虽然很冷，但是我们可以玩雪。"
+        },
+        {
+          "char": "净",
+          "pinyin": "jìng",
+          "example": "教室被我们打扫干净了。"
+        },
+        {
+          "char": "准",
+          "pinyin": "zhǔn",
+          "example": "我们要准时上课。"
+        },
+        {
+          "char": "几",
+          "pinyin": "jǐ",
+          "example": "你的书包里有几本书"
+        },
+        {
+          "char": "出",
+          "pinyin": "chū",
+          "example": "我们出去玩耍吧。"
+        },
+        {
+          "char": "分",
+          "pinyin": "fēn",
+          "example": "把水果分给朋友。"
+        }
+      ]
+    },
+    {
+      "id": "day-09",
+      "day": 9,
+      "title": "识字练习 09",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "别",
+          "pinyin": "bié",
+          "example": "分别时说再见。"
+        },
+        {
+          "char": "到",
+          "pinyin": "dào",
+          "example": "我马上就到家了。"
+        },
+        {
+          "char": "前",
+          "pinyin": "qián",
+          "example": "床前明月光。"
+        },
+        {
+          "char": "动",
+          "pinyin": "dòng",
+          "example": "我们要保护动物。"
+        },
+        {
+          "char": "包",
+          "pinyin": "bāo",
+          "example": "我每天背着包去上学。"
+        },
+        {
+          "char": "北",
+          "pinyin": "běi",
+          "example": "我们一起去北方看雪吧！"
+        },
+        {
+          "char": "医",
+          "pinyin": "yī",
+          "example": "我长大想成为医生。"
+        },
+        {
+          "char": "十",
+          "pinyin": "shí",
+          "example": "这是一十分的努力。"
+        },
+        {
+          "char": "午",
+          "pinyin": "wǔ",
+          "example": "中午我们吃面条。"
+        },
+        {
+          "char": "半",
+          "pinyin": "bàn",
+          "example": "我把半块蛋糕留给了弟弟。"
+        }
+      ]
+    },
+    {
+      "id": "day-10",
+      "day": 10,
+      "title": "识字练习 10",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "南",
+          "pinyin": "nán",
+          "example": "指南针的一端指着南。"
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "example": "今天我要去公园玩耍。"
+        },
+        {
+          "char": "叫",
+          "pinyin": "jiào",
+          "example": "每天早上闹钟都会叫我起床。"
+        },
+        {
+          "char": "右",
+          "pinyin": "yòu",
+          "example": "我习惯用右手写漂亮的字。"
+        },
+        {
+          "char": "号",
+          "pinyin": "hào",
+          "example": "我的学号是123"
+        },
+        {
+          "char": "吃",
+          "pinyin": "chī",
+          "example": "弟弟正在吃蛋糕。"
+        },
+        {
+          "char": "同",
+          "pinyin": "tóng",
+          "example": "我们同学关系很好。"
+        },
+        {
+          "char": "名",
+          "pinyin": "míng",
+          "example": "我的名字叫小红。"
+        },
+        {
+          "char": "后",
+          "pinyin": "hòu",
+          "example": "放学后，我和同学一起做游戏。"
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "example": "你今天在学校开心吗"
+        }
+      ]
+    },
+    {
+      "id": "day-11",
+      "day": 11,
+      "title": "识字练习 11",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "吧",
+          "pinyin": "bā",
+          "example": "让我们一起努力吧。"
+        },
+        {
+          "char": "听",
+          "pinyin": "tīng",
+          "example": "每天放学后，我都听爷爷讲故事。"
+        },
+        {
+          "char": "告",
+          "pinyin": "gào",
+          "example": "老师告诉我们明天去春游。"
+        },
+        {
+          "char": "呢",
+          "pinyin": "ne",
+          "example": "你呢在做什么"
+        },
+        {
+          "char": "和",
+          "pinyin": "hé",
+          "example": "我们和平相处。"
+        },
+        {
+          "char": "哥",
+          "pinyin": "gē",
+          "example": "表哥教我写字。"
+        },
+        {
+          "char": "哪",
+          "pinyin": "nǎ",
+          "example": "你最喜欢哪个季节"
+        },
+        {
+          "char": "唱",
+          "pinyin": "chàng",
+          "example": "我们一起来唱歌吧。"
+        },
+        {
+          "char": "商",
+          "pinyin": "shāng",
+          "example": "我们去商店买文具。"
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "example": "小明喜欢在公园里放风筝。"
+        }
+      ]
+    },
+    {
+      "id": "day-12",
+      "day": 12,
+      "title": "识字练习 12",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "喝",
+          "pinyin": "hē",
+          "example": "我每天都要喝很多水。"
+        },
+        {
+          "char": "四",
+          "pinyin": "sì",
+          "example": "今天老师教我们写四个字。"
+        },
+        {
+          "char": "回",
+          "pinyin": "huí",
+          "example": "我们回到温暖的家中。"
+        },
+        {
+          "char": "国",
+          "pinyin": "guó",
+          "example": "我爱我的国家，它很美丽。"
+        },
+        {
+          "char": "图",
+          "pinyin": "tú",
+          "example": "我喜欢看图画书。"
+        },
+        {
+          "char": "在",
+          "pinyin": "zài",
+          "example": "我在教室里认真读书。"
+        },
+        {
+          "char": "地",
+          "pinyin": "dì",
+          "example": "我们在地上画画。"
+        },
+        {
+          "char": "场",
+          "pinyin": "chǎng",
+          "example": "我们在操场上玩耍。"
+        },
+        {
+          "char": "坏",
+          "pinyin": "huài",
+          "example": "苹果坏了就不能吃了。"
+        },
+        {
+          "char": "坐",
+          "pinyin": "zuò",
+          "example": "同学们坐在教室里上课。"
+        }
+      ]
+    },
+    {
+      "id": "day-13",
+      "day": 13,
+      "title": "识字练习 13",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "块",
+          "pinyin": "kuài",
+          "example": "妈妈切了一块西瓜。"
+        },
+        {
+          "char": "备",
+          "pinyin": "bèi",
+          "example": "我们提前备好明天上课用的书本。"
+        },
+        {
+          "char": "外",
+          "pinyin": "wài",
+          "example": "外面的世界很精彩。"
+        },
+        {
+          "char": "多",
+          "pinyin": "duō",
+          "example": "多喝水有益健康。"
+        },
+        {
+          "char": "大",
+          "pinyin": "dà",
+          "example": "我画了一个红大苹果。"
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "example": "天空是蓝蓝的。"
+        },
+        {
+          "char": "太",
+          "pinyin": "tài",
+          "example": "今天的天气太好了。"
+        },
+        {
+          "char": "女",
+          "pinyin": "nǚ",
+          "example": "小女孩在花园里跳舞。"
+        },
+        {
+          "char": "奶",
+          "pinyin": "nǎi",
+          "example": "奶奶给我讲故事。"
+        },
+        {
+          "char": "她",
+          "pinyin": "tā",
+          "example": "她是我最好的朋友。"
+        }
+      ]
+    },
+    {
+      "id": "day-14",
+      "day": 14,
+      "title": "识字练习 14",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "example": "好孩子要诚实。"
+        },
+        {
+          "char": "妈",
+          "pinyin": "mā",
+          "example": "妈妈在做饭。"
+        },
+        {
+          "char": "妹",
+          "pinyin": "mèi",
+          "example": "姐姐疼爱小妹。"
+        },
+        {
+          "char": "姐",
+          "pinyin": "jiě",
+          "example": "姐，你的书包真漂亮。"
+        },
+        {
+          "char": "子",
+          "pinyin": "zǐ",
+          "example": "外婆煮的莲子汤真甜。"
+        },
+        {
+          "char": "字",
+          "pinyin": "zì",
+          "example": "我们每天都要练字。"
+        },
+        {
+          "char": "学",
+          "pinyin": "xué",
+          "example": "我爱学写字。"
+        },
+        {
+          "char": "孩",
+          "pinyin": "hái",
+          "example": "每个孩子都应该快乐成长。"
+        },
+        {
+          "char": "客",
+          "pinyin": "kè",
+          "example": "客人来了，我们热情招待。"
+        },
+        {
+          "char": "家",
+          "pinyin": "jiā",
+          "example": "每天放学后，我都回到温暖的家。"
+        }
+      ]
+    },
+    {
+      "id": "day-15",
+      "day": 15,
+      "title": "识字练习 15",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "对",
+          "pinyin": "duì",
+          "example": "我们要对老师有礼貌。"
+        },
+        {
+          "char": "小",
+          "pinyin": "xiǎo",
+          "example": "今天看到一只小猫。"
+        },
+        {
+          "char": "少",
+          "pinyin": "shǎo",
+          "example": "请少吃零食，多运动。"
+        },
+        {
+          "char": "就",
+          "pinyin": "jiù",
+          "example": "我就住在学校旁边。"
+        },
+        {
+          "char": "岁",
+          "pinyin": "suì",
+          "example": "我今年已经七岁了，准备上小学。"
+        },
+        {
+          "char": "工",
+          "pinyin": "gōng",
+          "example": "我长大了想当工程师。"
+        },
+        {
+          "char": "左",
+          "pinyin": "zuǒ",
+          "example": "我左手拿着红旗。"
+        },
+        {
+          "char": "差",
+          "pinyin": "chà",
+          "example": "你差一分就满分了，真棒！"
+        },
+        {
+          "char": "师",
+          "pinyin": "shī",
+          "example": "老师是我们学习的榜样。"
+        },
+        {
+          "char": "帮",
+          "pinyin": "bāng",
+          "example": "同学之间要互相帮助。"
+        }
+      ]
+    },
+    {
+      "id": "day-16",
+      "day": 16,
+      "title": "识字练习 16",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "常",
+          "pinyin": "cháng",
+          "example": "我常和爸爸一起读书。"
+        },
+        {
+          "char": "干",
+          "pinyin": "gān",
+          "example": "妈妈把衣服晾干了。"
+        },
+        {
+          "char": "年",
+          "pinyin": "nián",
+          "example": "过年的时候要穿新衣服"
+        },
+        {
+          "char": "床",
+          "pinyin": "chuáng",
+          "example": "床前明月光。"
+        },
+        {
+          "char": "店",
+          "pinyin": "diàn",
+          "example": "我喜欢去街角的书店看书。"
+        },
+        {
+          "char": "开",
+          "pinyin": "kāi",
+          "example": "每天早上，我会开窗户通风。"
+        },
+        {
+          "char": "弟",
+          "pinyin": "dì",
+          "example": "我的表弟非常聪明。"
+        },
+        {
+          "char": "影",
+          "pinyin": "yǐng",
+          "example": "影子是我的好朋友。"
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "example": "今天天气很好。"
+        },
+        {
+          "char": "得",
+          "pinyin": "dé",
+          "example": "小明得到了第一名。"
+        }
+      ]
+    },
+    {
+      "id": "day-17",
+      "day": 17,
+      "title": "识字练习 17",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "忘",
+          "pinyin": "wàng",
+          "example": "不要忘记带上你的微笑。"
+        },
+        {
+          "char": "忙",
+          "pinyin": "máng",
+          "example": "忙碌的一天开始了，要加油哦！"
+        },
+        {
+          "char": "快",
+          "pinyin": "kuài",
+          "example": "快起床，太阳晒屁股啦！"
+        },
+        {
+          "char": "怎",
+          "pinyin": "zěn",
+          "example": "你怎么这么棒！"
+        },
+        {
+          "char": "您",
+          "pinyin": "nín",
+          "example": "您真是一位好老师。"
+        },
+        {
+          "char": "想",
+          "pinyin": "xiǎng",
+          "example": "我想成为一名优秀的科学家。"
+        },
+        {
+          "char": "慢",
+          "pinyin": "màn",
+          "example": "小乌龟虽然爬得很慢，但它坚持到了终点。"
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "example": "我是快乐的少先队员。"
+        },
+        {
+          "char": "房",
+          "pinyin": "fáng",
+          "example": "我每天都会打扫自己的房间。"
+        },
+        {
+          "char": "打",
+          "pinyin": "dǎ",
+          "example": "我喜欢和爸爸一起打篮球。"
+        }
+      ]
+    },
+    {
+      "id": "day-18",
+      "day": 18,
+      "title": "识字练习 18",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "找",
+          "pinyin": "zhǎo",
+          "example": "我在找我的橡皮。"
+        },
+        {
+          "char": "拿",
+          "pinyin": "ná",
+          "example": "他拿到了一份礼物"
+        },
+        {
+          "char": "放",
+          "pinyin": "fàng",
+          "example": "在草地上放风筝真开心。"
+        },
+        {
+          "char": "教",
+          "pinyin": "jiào",
+          "example": "教育是国家的根本。"
+        },
+        {
+          "char": "文",
+          "pinyin": "wén",
+          "example": "我喜欢读文学故事。"
+        },
+        {
+          "char": "新",
+          "pinyin": "xīn",
+          "example": "我背上了新书包去上学。"
+        },
+        {
+          "char": "方",
+          "pinyin": "fāng",
+          "example": "我们要做一个正方的人。"
+        },
+        {
+          "char": "旁",
+          "pinyin": "páng",
+          "example": "我坐在旁边看书写字。"
+        },
+        {
+          "char": "早",
+          "pinyin": "zǎo",
+          "example": "早上好，小朋友。"
+        },
+        {
+          "char": "时",
+          "pinyin": "shí",
+          "example": "我们每天都要按时上学。"
+        }
+      ]
+    },
+    {
+      "id": "day-19",
+      "day": 19,
+      "title": "识字练习 19",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "昨",
+          "pinyin": "zuó",
+          "example": "今天比昨天更会读。"
+        },
+        {
+          "char": "是",
+          "pinyin": "shì",
+          "example": "今天是一个晴朗的好日子。"
+        },
+        {
+          "char": "晚",
+          "pinyin": "wǎn",
+          "example": "晚上一起看书。"
+        },
+        {
+          "char": "最",
+          "pinyin": "zuì",
+          "example": "你是最棒的小学生。"
+        },
+        {
+          "char": "有",
+          "pinyin": "yǒu",
+          "example": "我们有一个美丽的校园。"
+        },
+        {
+          "char": "朋",
+          "pinyin": "péng",
+          "example": "小明是我的好朋友。"
+        },
+        {
+          "char": "服",
+          "pinyin": "fú",
+          "example": "穿上新服真精神！"
+        },
+        {
+          "char": "期",
+          "pinyin": "qī",
+          "example": "我期待暑假的到来。"
+        },
+        {
+          "char": "本",
+          "pinyin": "běn",
+          "example": "我的本子上画了一朵小花。"
+        },
+        {
+          "char": "机",
+          "pinyin": "jī",
+          "example": "机器人真有趣。"
+        }
+      ]
+    },
+    {
+      "id": "day-20",
+      "day": 20,
+      "title": "识字练习 20",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "条",
+          "pinyin": "tiáo",
+          "example": "我有一条漂亮的围巾。"
+        },
+        {
+          "char": "来",
+          "pinyin": "lái",
+          "example": "小明请来我家玩。"
+        },
+        {
+          "char": "杯",
+          "pinyin": "bēi",
+          "example": "水杯要放好。"
+        },
+        {
+          "char": "果",
+          "pinyin": "guǒ",
+          "example": "秋天，树上的果子成熟了。"
+        },
+        {
+          "char": "校",
+          "pinyin": "xiào",
+          "example": "我每天去校上学。"
+        },
+        {
+          "char": "样",
+          "pinyin": "yàng",
+          "example": "这个样子真好看。"
+        },
+        {
+          "char": "桌",
+          "pinyin": "zhuō",
+          "example": "我每天在桌子上写作业。"
+        },
+        {
+          "char": "楼",
+          "pinyin": "lóu",
+          "example": "我站在楼顶，能看见整个公园。"
+        },
+        {
+          "char": "次",
+          "pinyin": "cì",
+          "example": "请按次序排队。"
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "example": "我们欢迎新同学。"
+        }
+      ]
+    },
+    {
+      "id": "day-21",
+      "day": 21,
+      "title": "识字练习 21",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "歌",
+          "pinyin": "gē",
+          "example": "我们一起来唱歌吧。"
+        },
+        {
+          "char": "正",
+          "pinyin": "zhèng",
+          "example": "我们要做正直的人。"
+        },
+        {
+          "char": "比",
+          "pinyin": "bǐ",
+          "example": "我们要比谁更有爱心"
+        },
+        {
+          "char": "毛",
+          "pinyin": "máo",
+          "example": "小鸡的毛黄黄的。"
+        },
+        {
+          "char": "气",
+          "pinyin": "qì",
+          "example": "每天呼吸新鲜空气身体好。"
+        },
+        {
+          "char": "汉",
+          "pinyin": "hàn",
+          "example": "我爱写汉字。"
+        },
+        {
+          "char": "汽",
+          "pinyin": "qì",
+          "example": "小朋友们喜欢坐汽车去郊游。"
+        },
+        {
+          "char": "没",
+          "pinyin": "méi",
+          "example": "今天没有下雨，我们去公园玩。"
+        },
+        {
+          "char": "洗",
+          "pinyin": "xǐ",
+          "example": "吃饭前要洗手。"
+        },
+        {
+          "char": "渴",
+          "pinyin": "kě",
+          "example": "我渴了，想喝水。"
+        }
+      ]
+    },
+    {
+      "id": "day-22",
+      "day": 22,
+      "title": "识字练习 22",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "点",
+          "pinyin": "diǎn",
+          "example": "小雨点落在地上。"
+        },
+        {
+          "char": "热",
+          "pinyin": "rè",
+          "example": "今天真热，我们一起去游泳吧！"
+        },
+        {
+          "char": "爱",
+          "pinyin": "ài",
+          "example": "我们都要爱惜粮食。"
+        },
+        {
+          "char": "爷",
+          "pinyin": "yé",
+          "example": "爷爷带我散步。"
+        },
+        {
+          "char": "爸",
+          "pinyin": "bà",
+          "example": "爸爸在看书。"
+        },
+        {
+          "char": "牛",
+          "pinyin": "niú",
+          "example": "小牛在草地上吃草。"
+        },
+        {
+          "char": "玩",
+          "pinyin": "wán",
+          "example": "今天我和弟弟玩捉迷藏。"
+        },
+        {
+          "char": "现",
+          "pinyin": "xiàn",
+          "example": "我现在是一名小学生。"
+        },
+        {
+          "char": "班",
+          "pinyin": "bān",
+          "example": "我们一起上学。"
+        },
+        {
+          "char": "球",
+          "pinyin": "qiú",
+          "example": "我喜欢踢球。"
+        }
+      ]
+    },
+    {
+      "id": "day-23",
+      "day": 23,
+      "title": "识字练习 23",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "生",
+          "pinyin": "shēng",
+          "example": "生活中有很多美好的事物。"
+        },
+        {
+          "char": "用",
+          "pinyin": "yòng",
+          "example": "我们一起用积木搭房子。"
+        },
+        {
+          "char": "电",
+          "pinyin": "diàn",
+          "example": "电是我们生活中重要的能源。"
+        },
+        {
+          "char": "男",
+          "pinyin": "nán",
+          "example": "他是一个勇敢的男孩。"
+        },
+        {
+          "char": "病",
+          "pinyin": "bìng",
+          "example": "多锻炼身体可以少生病。"
+        },
+        {
+          "char": "白",
+          "pinyin": "bái",
+          "example": "天空中的白云像棉花糖"
+        },
+        {
+          "char": "百",
+          "pinyin": "bǎi",
+          "example": "我有一百本书。"
+        },
+        {
+          "char": "的",
+          "pinyin": "de",
+          "example": "这是我的新书包。"
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "example": "妈妈带我去看美丽的海豚表演。"
+        },
+        {
+          "char": "真",
+          "pinyin": "zhēn",
+          "example": "我们要做一个真诚的好孩子。"
+        }
+      ]
+    },
+    {
+      "id": "day-24",
+      "day": 24,
+      "title": "识字练习 24",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "着",
+          "pinyin": "zháo",
+          "example": "着火了，快跑啊！"
+        },
+        {
+          "char": "睡",
+          "pinyin": "shuì",
+          "example": "晚上要早睡。"
+        },
+        {
+          "char": "知",
+          "pinyin": "zhī",
+          "example": "他知道如何帮助别人。"
+        },
+        {
+          "char": "票",
+          "pinyin": "piào",
+          "example": "小明用零花钱买了一张电影票。"
+        },
+        {
+          "char": "穿",
+          "pinyin": "chuān",
+          "example": "我自己学会了穿鞋子。"
+        },
+        {
+          "char": "站",
+          "pinyin": "zhàn",
+          "example": "他站在讲台上发言"
+        },
+        {
+          "char": "笑",
+          "pinyin": "xiào",
+          "example": "小明考试得了满分，高兴地笑了。"
+        },
+        {
+          "char": "第",
+          "pinyin": "dì",
+          "example": "他获得了比赛第一名。"
+        },
+        {
+          "char": "等",
+          "pinyin": "děng",
+          "example": "放学后，我在校门口等妈妈。"
+        },
+        {
+          "char": "答",
+          "pinyin": "dá",
+          "example": "小明答对了老师的问题。"
+        }
+      ]
+    },
+    {
+      "id": "day-25",
+      "day": 25,
+      "title": "识字练习 25",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "米",
+          "pinyin": "mǐ",
+          "example": "今天的米饭格外香甜。"
+        },
+        {
+          "char": "系",
+          "pinyin": "xì",
+          "example": "我们和老师之间的关系非常融洽。"
+        },
+        {
+          "char": "累",
+          "pinyin": "lèi",
+          "example": "学习有时会很累，但收获快乐。"
+        },
+        {
+          "char": "绍",
+          "pinyin": "shào",
+          "example": "我给大家绍一下我的新朋友。"
+        },
+        {
+          "char": "给",
+          "pinyin": "gěi",
+          "example": "妈妈给我买了一个玩具。"
+        },
+        {
+          "char": "网",
+          "pinyin": "wǎng",
+          "example": "蜘蛛在墙角织了一张网。"
+        },
+        {
+          "char": "老",
+          "pinyin": "lǎo",
+          "example": "老师教我们读书写字。"
+        },
+        {
+          "char": "考",
+          "pinyin": "kǎo",
+          "example": "每次考试前都要认真复习。"
+        },
+        {
+          "char": "肉",
+          "pinyin": "ròu",
+          "example": "我们一家人围坐在一起吃肉。"
+        },
+        {
+          "char": "能",
+          "pinyin": "néng",
+          "example": "我相能通过努力取得成功。"
+        }
+      ]
+    },
+    {
+      "id": "day-26",
+      "day": 26,
+      "title": "识字练习 26",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "脑",
+          "pinyin": "nǎo",
+          "example": "我们用脑思考和学习新知识。"
+        },
+        {
+          "char": "茶",
+          "pinyin": "chá",
+          "example": "爷爷每天都要喝一杯茶。"
+        },
+        {
+          "char": "菜",
+          "pinyin": "cài",
+          "example": "多吃菜可以让身体更健康。"
+        },
+        {
+          "char": "蛋",
+          "pinyin": "dàn",
+          "example": "小鸡从蛋里孵出来。"
+        },
+        {
+          "char": "行",
+          "pinyin": "xíng",
+          "example": "我每天行走锻炼身体。"
+        },
+        {
+          "char": "衣",
+          "pinyin": "yī",
+          "example": "我穿上了漂亮的衣服。"
+        },
+        {
+          "char": "西",
+          "pinyin": "xī",
+          "example": "我家的西边有一条小河。"
+        },
+        {
+          "char": "要",
+          "pinyin": "yào",
+          "example": "我要做一个诚实的好孩子。"
+        },
+        {
+          "char": "见",
+          "pinyin": "jiàn",
+          "example": "我见到了美丽的彩虹。"
+        },
+        {
+          "char": "视",
+          "pinyin": "shì",
+          "example": "我们要从小保护视力。"
+        }
+      ]
+    },
+    {
+      "id": "day-27",
+      "day": 27,
+      "title": "识字练习 27",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "觉",
+          "pinyin": "jiào",
+          "example": "早睡觉，身体好。"
+        },
+        {
+          "char": "认",
+          "pinyin": "rèn",
+          "example": "我认识了很多生字"
+        },
+        {
+          "char": "记",
+          "pinyin": "jì",
+          "example": "请记住这个重要的知识点。"
+        },
+        {
+          "char": "识",
+          "pinyin": "shí",
+          "example": "今天我认识了一个新朋友"
+        },
+        {
+          "char": "诉",
+          "pinyin": "sù",
+          "example": "他向我诉说成功的喜悦。"
+        },
+        {
+          "char": "试",
+          "pinyin": "shì",
+          "example": "我试着解出了这道数学题。"
+        },
+        {
+          "char": "话",
+          "pinyin": "huà",
+          "example": "小朋友要学会说文明话。"
+        },
+        {
+          "char": "语",
+          "pinyin": "yǔ",
+          "example": "我爱学习中文语。"
+        },
+        {
+          "char": "说",
+          "pinyin": "shuō",
+          "example": "说话要诚实。"
+        },
+        {
+          "char": "请",
+          "pinyin": "qǐng",
+          "example": "请你帮我把书递过来。"
+        }
+      ]
+    },
+    {
+      "id": "day-28",
+      "day": 28,
+      "title": "识字练习 28",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "读",
+          "pinyin": "dú",
+          "example": "小朋友要大声读书。"
+        },
+        {
+          "char": "课",
+          "pinyin": "kè",
+          "example": "今天有一节中文课。"
+        },
+        {
+          "char": "谁",
+          "pinyin": "shéi",
+          "example": "今天谁第一个到校"
+        },
+        {
+          "char": "谢",
+          "pinyin": "xiè",
+          "example": "他谢了大家。"
+        },
+        {
+          "char": "贵",
+          "pinyin": "guì",
+          "example": "我们要珍惜贵重的友谊。"
+        },
+        {
+          "char": "走",
+          "pinyin": "zǒu",
+          "example": "妹妹学会走路了真开心"
+        },
+        {
+          "char": "起",
+          "pinyin": "qǐ",
+          "example": "太阳从东方升起了。"
+        },
+        {
+          "char": "跑",
+          "pinyin": "pǎo",
+          "example": "他每天早晨都去公园跑步。"
+        },
+        {
+          "char": "跟",
+          "pinyin": "gēn",
+          "example": "请你跟我一起做游戏。"
+        },
+        {
+          "char": "路",
+          "pinyin": "lù",
+          "example": "这条路一直通向学校。"
+        }
+      ]
+    },
+    {
+      "id": "day-29",
+      "day": 29,
+      "title": "识字练习 29",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "身",
+          "pinyin": "shēn",
+          "example": "我们要保持身体健康。"
+        },
+        {
+          "char": "边",
+          "pinyin": "biān",
+          "example": "河边的柳树发芽了。"
+        },
+        {
+          "char": "过",
+          "pinyin": "guò",
+          "example": "我过马路要小心。"
+        },
+        {
+          "char": "还",
+          "pinyin": "hái",
+          "example": "我还想再吃一块蛋糕。"
+        },
+        {
+          "char": "这",
+          "pinyin": "zhè",
+          "example": "这是我的新书包。"
+        },
+        {
+          "char": "进",
+          "pinyin": "jìn",
+          "example": "请进来坐下。"
+        },
+        {
+          "char": "远",
+          "pinyin": "yuǎn",
+          "example": "学校离家很远。"
+        },
+        {
+          "char": "送",
+          "pinyin": "sòng",
+          "example": "我送给妈妈一朵花。"
+        },
+        {
+          "char": "道",
+          "pinyin": "dào",
+          "example": "道路两边种满了花草。"
+        },
+        {
+          "char": "那",
+          "pinyin": "nà",
+          "example": "那只小鸟飞得真高。"
+        }
+      ]
+    },
+    {
+      "id": "day-30",
+      "day": 30,
+      "title": "识字练习 30",
+      "focus": "每天 10 个字，先认识、再朗读、最后回看一遍。",
+      "items": [
+        {
+          "char": "都",
+          "pinyin": "dōu",
+          "example": "我们都要爱护环境。"
+        },
+        {
+          "char": "里",
+          "pinyin": "lǐ",
+          "example": "里面的糖果真好吃。"
+        },
+        {
+          "char": "重",
+          "pinyin": "zhòng",
+          "example": "小明搬不动这个重箱子。"
+        },
+        {
+          "char": "钱",
+          "pinyin": "qián",
+          "example": "我用钱买了喜欢的书。"
+        },
+        {
+          "char": "错",
+          "pinyin": "cuò",
+          "example": "知错能改就是好孩子"
+        },
+        {
+          "char": "门",
+          "pinyin": "mén",
+          "example": "请打开门。"
+        },
+        {
+          "char": "问",
+          "pinyin": "wèn",
+          "example": "在学习中遇到困难就要主动问老师。"
+        },
+        {
+          "char": "间",
+          "pinyin": "jiān",
+          "example": "朋友间的信任很重要。"
+        },
+        {
+          "char": "院",
+          "pinyin": "yuàn",
+          "example": "院子里开满了鲜花。"
+        },
+        {
+          "char": "难",
+          "pinyin": "nán",
+          "example": "这件事很难，但我们一定能做好。"
+        }
+      ]
+    },
+    {
+      "id": "day-31",
+      "day": 31,
+      "title": "复习巩固 01",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "人",
+          "pinyin": "rén",
+          "example": "路上行人很多。"
+        },
+        {
+          "char": "口",
+          "pinyin": "kǒu",
+          "example": "张开小口吃苹果。"
+        },
+        {
+          "char": "手",
+          "pinyin": "shǒu",
+          "example": "我举起小手回答问题。"
+        },
+        {
+          "char": "日",
+          "pinyin": "rì",
+          "example": "日头升起来了。"
+        },
+        {
+          "char": "月",
+          "pinyin": "yuè",
+          "example": "天上挂着一轮明月。"
+        },
+        {
+          "char": "山",
+          "pinyin": "shān",
+          "example": "我们一起去爬山。"
+        },
+        {
+          "char": "水",
+          "pinyin": "shuǐ",
+          "example": "小鱼在水里游。"
+        },
+        {
+          "char": "火",
+          "pinyin": "huǒ",
+          "example": "冬天烤火真暖和。"
+        },
+        {
+          "char": "木",
+          "pinyin": "mù",
+          "example": "这是一棵大木头。"
+        },
+        {
+          "char": "田",
+          "pinyin": "tián",
+          "example": "农民伯伯在田里种稻。"
+        }
+      ]
+    },
+    {
+      "id": "day-32",
+      "day": 32,
+      "title": "复习巩固 02",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "一",
+          "pinyin": "yī",
+          "example": "今天我吃了一个苹果"
+        },
+        {
+          "char": "二",
+          "pinyin": "èr",
+          "example": "我有一个二元硬币。"
+        },
+        {
+          "char": "三",
+          "pinyin": "sān",
+          "example": "一加二等于三。"
+        },
+        {
+          "char": "上",
+          "pinyin": "shàng",
+          "example": "今天我要上学去。"
+        },
+        {
+          "char": "下",
+          "pinyin": "xià",
+          "example": "秋天到了，树叶飘下来。"
+        },
+        {
+          "char": "大",
+          "pinyin": "dà",
+          "example": "我画了一个红大苹果。"
+        },
+        {
+          "char": "小",
+          "pinyin": "xiǎo",
+          "example": "今天看到一只小猫。"
+        },
+        {
+          "char": "多",
+          "pinyin": "duō",
+          "example": "多喝水有益健康。"
+        },
+        {
+          "char": "少",
+          "pinyin": "shǎo",
+          "example": "请少吃零食，多运动。"
+        },
+        {
+          "char": "中",
+          "pinyin": "zhōng",
+          "example": "中间有一棵大树。"
+        }
+      ]
+    },
+    {
+      "id": "day-33",
+      "day": 33,
+      "title": "复习巩固 03",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "example": "我是快乐的少先队员。"
+        },
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "example": "你真是一个聪明的小朋友。"
+        },
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "example": "他是我的好伙伴。"
+        },
+        {
+          "char": "她",
+          "pinyin": "tā",
+          "example": "她是我最好的朋友。"
+        },
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "example": "好孩子要诚实。"
+        },
+        {
+          "char": "家",
+          "pinyin": "jiā",
+          "example": "每天放学后，我都回到温暖的家。"
+        },
+        {
+          "char": "来",
+          "pinyin": "lái",
+          "example": "小明请来我家玩。"
+        },
+        {
+          "char": "回",
+          "pinyin": "huí",
+          "example": "我们回到温暖的家中。"
+        },
+        {
+          "char": "爸",
+          "pinyin": "bà",
+          "example": "爸爸在看书。"
+        },
+        {
+          "char": "妈",
+          "pinyin": "mā",
+          "example": "妈妈在做饭。"
+        }
+      ]
+    },
+    {
+      "id": "day-34",
+      "day": 34,
+      "title": "复习巩固 04",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "学",
+          "pinyin": "xué",
+          "example": "我爱学写字。"
+        },
+        {
+          "char": "生",
+          "pinyin": "shēng",
+          "example": "生活中有很多美好的事物。"
+        },
+        {
+          "char": "书",
+          "pinyin": "shū",
+          "example": "我每天都要读书。"
+        },
+        {
+          "char": "本",
+          "pinyin": "běn",
+          "example": "我的本子上画了一朵小花。"
+        },
+        {
+          "char": "笔",
+          "pinyin": "bǐ",
+          "example": "用铅笔写字。"
+        },
+        {
+          "char": "字",
+          "pinyin": "zì",
+          "example": "我们每天都要练字。"
+        },
+        {
+          "char": "写",
+          "pinyin": "xiě",
+          "example": "我们每天都要认真写作业。"
+        },
+        {
+          "char": "读",
+          "pinyin": "dú",
+          "example": "小朋友要大声读书。"
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "example": "妈妈带我去看美丽的海豚表演。"
+        },
+        {
+          "char": "校",
+          "pinyin": "xiào",
+          "example": "我每天去校上学。"
+        }
+      ]
+    },
+    {
+      "id": "day-35",
+      "day": 35,
+      "title": "复习巩固 05",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "云",
+          "pinyin": "yún",
+          "example": "蓝天上飘着白云。"
+        },
+        {
+          "char": "雨",
+          "pinyin": "yǔ",
+          "example": "外面正在下雨呢。"
+        },
+        {
+          "char": "风",
+          "pinyin": "fēng",
+          "example": "秋风吹得树叶飘。"
+        },
+        {
+          "char": "雪",
+          "pinyin": "xuě",
+          "example": "冬天下雪了。"
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "example": "天空是蓝蓝的。"
+        },
+        {
+          "char": "气",
+          "pinyin": "qì",
+          "example": "每天呼吸新鲜空气身体好。"
+        },
+        {
+          "char": "春",
+          "pinyin": "",
+          "example": "认识“春”这个字。"
+        },
+        {
+          "char": "夏",
+          "pinyin": "",
+          "example": "认识“夏”这个字。"
+        },
+        {
+          "char": "秋",
+          "pinyin": "",
+          "example": "认识“秋”这个字。"
+        },
+        {
+          "char": "冬",
+          "pinyin": "",
+          "example": "认识“冬”这个字。"
+        }
+      ]
+    },
+    {
+      "id": "day-36",
+      "day": 36,
+      "title": "复习巩固 06",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "花",
+          "pinyin": "huā",
+          "example": "春天花儿都开了。"
+        },
+        {
+          "char": "草",
+          "pinyin": "cǎo",
+          "example": "小草从地里钻出来。"
+        },
+        {
+          "char": "树",
+          "pinyin": "shù",
+          "example": "树下乘凉真舒服。"
+        },
+        {
+          "char": "林",
+          "pinyin": "lín",
+          "example": "这片森林很大。"
+        },
+        {
+          "char": "叶",
+          "pinyin": "",
+          "example": "认识“叶”这个字。"
+        },
+        {
+          "char": "果",
+          "pinyin": "guǒ",
+          "example": "秋天，树上的果子成熟了。"
+        },
+        {
+          "char": "鸟",
+          "pinyin": "niǎo",
+          "example": "小鸟在枝头唱歌。"
+        },
+        {
+          "char": "马",
+          "pinyin": "mǎ",
+          "example": "草原上跑着一匹马。"
+        },
+        {
+          "char": "牛",
+          "pinyin": "niú",
+          "example": "小牛在草地上吃草。"
+        },
+        {
+          "char": "鱼",
+          "pinyin": "",
+          "example": "认识“鱼”这个字。"
+        }
+      ]
+    },
+    {
+      "id": "day-37",
+      "day": 37,
+      "title": "复习巩固 07",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "东",
+          "pinyin": "dōng",
+          "example": "太阳从东边升起来。"
+        },
+        {
+          "char": "西",
+          "pinyin": "xī",
+          "example": "我家的西边有一条小河。"
+        },
+        {
+          "char": "南",
+          "pinyin": "nán",
+          "example": "指南针的一端指着南。"
+        },
+        {
+          "char": "北",
+          "pinyin": "běi",
+          "example": "我们一起去北方看雪吧！"
+        },
+        {
+          "char": "前",
+          "pinyin": "qián",
+          "example": "床前明月光。"
+        },
+        {
+          "char": "后",
+          "pinyin": "hòu",
+          "example": "放学后，我和同学一起做游戏。"
+        },
+        {
+          "char": "左",
+          "pinyin": "zuǒ",
+          "example": "我左手拿着红旗。"
+        },
+        {
+          "char": "右",
+          "pinyin": "yòu",
+          "example": "我习惯用右手写漂亮的字。"
+        },
+        {
+          "char": "里",
+          "pinyin": "lǐ",
+          "example": "里面的糖果真好吃。"
+        },
+        {
+          "char": "外",
+          "pinyin": "wài",
+          "example": "外面的世界很精彩。"
+        }
+      ]
+    },
+    {
+      "id": "day-38",
+      "day": 38,
+      "title": "复习巩固 08",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "早",
+          "pinyin": "zǎo",
+          "example": "早上好，小朋友。"
+        },
+        {
+          "char": "晚",
+          "pinyin": "wǎn",
+          "example": "晚上一起看书。"
+        },
+        {
+          "char": "今",
+          "pinyin": "jīn",
+          "example": "从今以后我要好好学习"
+        },
+        {
+          "char": "明",
+          "pinyin": "míng",
+          "example": "屋子里的灯很明亮。"
+        },
+        {
+          "char": "年",
+          "pinyin": "nián",
+          "example": "过年的时候要穿新衣服"
+        },
+        {
+          "char": "月",
+          "pinyin": "yuè",
+          "example": "天上挂着一轮明月。"
+        },
+        {
+          "char": "日",
+          "pinyin": "rì",
+          "example": "日头升起来了。"
+        },
+        {
+          "char": "时",
+          "pinyin": "shí",
+          "example": "我们每天都要按时上学。"
+        },
+        {
+          "char": "分",
+          "pinyin": "fēn",
+          "example": "把水果分给朋友。"
+        },
+        {
+          "char": "点",
+          "pinyin": "diǎn",
+          "example": "小雨点落在地上。"
+        }
+      ]
+    },
+    {
+      "id": "day-39",
+      "day": 39,
+      "title": "复习巩固 09",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "吃",
+          "pinyin": "chī",
+          "example": "弟弟正在吃蛋糕。"
+        },
+        {
+          "char": "喝",
+          "pinyin": "hē",
+          "example": "我每天都要喝很多水。"
+        },
+        {
+          "char": "米",
+          "pinyin": "mǐ",
+          "example": "今天的米饭格外香甜。"
+        },
+        {
+          "char": "面",
+          "pinyin": "miàn",
+          "example": "放学后我和朋友一起去吃面。"
+        },
+        {
+          "char": "果",
+          "pinyin": "guǒ",
+          "example": "秋天，树上的果子成熟了。"
+        },
+        {
+          "char": "水",
+          "pinyin": "shuǐ",
+          "example": "小鱼在水里游。"
+        },
+        {
+          "char": "口",
+          "pinyin": "kǒu",
+          "example": "张开小口吃苹果。"
+        },
+        {
+          "char": "手",
+          "pinyin": "shǒu",
+          "example": "我举起小手回答问题。"
+        },
+        {
+          "char": "杯",
+          "pinyin": "bēi",
+          "example": "水杯要放好。"
+        },
+        {
+          "char": "碗",
+          "pinyin": "wǎn",
+          "example": "我会摆好碗。"
+        }
+      ]
+    },
+    {
+      "id": "day-40",
+      "day": 40,
+      "title": "复习巩固 10",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "走",
+          "pinyin": "zǒu",
+          "example": "妹妹学会走路了真开心"
+        },
+        {
+          "char": "跑",
+          "pinyin": "pǎo",
+          "example": "他每天早晨都去公园跑步。"
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "example": "妈妈带我去看美丽的海豚表演。"
+        },
+        {
+          "char": "听",
+          "pinyin": "tīng",
+          "example": "每天放学后，我都听爷爷讲故事。"
+        },
+        {
+          "char": "说",
+          "pinyin": "shuō",
+          "example": "说话要诚实。"
+        },
+        {
+          "char": "写",
+          "pinyin": "xiě",
+          "example": "我们每天都要认真写作业。"
+        },
+        {
+          "char": "读",
+          "pinyin": "dú",
+          "example": "小朋友要大声读书。"
+        },
+        {
+          "char": "笑",
+          "pinyin": "xiào",
+          "example": "小明考试得了满分，高兴地笑了。"
+        },
+        {
+          "char": "开",
+          "pinyin": "kāi",
+          "example": "每天早上，我会开窗户通风。"
+        },
+        {
+          "char": "关",
+          "pinyin": "guān",
+          "example": "请关上那扇门。"
+        }
+      ]
+    },
+    {
+      "id": "day-41",
+      "day": 41,
+      "title": "复习巩固 11",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "爷",
+          "pinyin": "yé",
+          "example": "爷爷带我散步。"
+        },
+        {
+          "char": "奶",
+          "pinyin": "nǎi",
+          "example": "奶奶给我讲故事。"
+        },
+        {
+          "char": "爸",
+          "pinyin": "bà",
+          "example": "爸爸在看书。"
+        },
+        {
+          "char": "妈",
+          "pinyin": "mā",
+          "example": "妈妈在做饭。"
+        },
+        {
+          "char": "哥",
+          "pinyin": "gē",
+          "example": "表哥教我写字。"
+        },
+        {
+          "char": "姐",
+          "pinyin": "jiě",
+          "example": "姐，你的书包真漂亮。"
+        },
+        {
+          "char": "弟",
+          "pinyin": "dì",
+          "example": "我的表弟非常聪明。"
+        },
+        {
+          "char": "妹",
+          "pinyin": "mèi",
+          "example": "姐姐疼爱小妹。"
+        },
+        {
+          "char": "友",
+          "pinyin": "",
+          "example": "认识“友”这个字。"
+        },
+        {
+          "char": "师",
+          "pinyin": "shī",
+          "example": "老师是我们学习的榜样。"
+        }
+      ]
+    },
+    {
+      "id": "day-42",
+      "day": 42,
+      "title": "复习巩固 12",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "红",
+          "pinyin": "",
+          "example": "认识“红”这个字。"
+        },
+        {
+          "char": "白",
+          "pinyin": "bái",
+          "example": "天空中的白云像棉花糖"
+        },
+        {
+          "char": "黑",
+          "pinyin": "hēi",
+          "example": "黑夜里有月亮。"
+        },
+        {
+          "char": "青",
+          "pinyin": "",
+          "example": "认识“青”这个字。"
+        },
+        {
+          "char": "黄",
+          "pinyin": "",
+          "example": "认识“黄”这个字。"
+        },
+        {
+          "char": "明",
+          "pinyin": "míng",
+          "example": "屋子里的灯很明亮。"
+        },
+        {
+          "char": "光",
+          "pinyin": "guāng",
+          "example": "太阳光照亮大地。"
+        },
+        {
+          "char": "星",
+          "pinyin": "xīng",
+          "example": "夜晚满天都是小星星。"
+        },
+        {
+          "char": "月",
+          "pinyin": "yuè",
+          "example": "天上挂着一轮明月。"
+        },
+        {
+          "char": "云",
+          "pinyin": "yún",
+          "example": "蓝天上飘着白云。"
+        }
+      ]
+    },
+    {
+      "id": "day-43",
+      "day": 43,
+      "title": "复习巩固 13",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "请",
+          "pinyin": "qǐng",
+          "example": "请你帮我把书递过来。"
+        },
+        {
+          "char": "谢",
+          "pinyin": "xiè",
+          "example": "他谢了大家。"
+        },
+        {
+          "char": "对",
+          "pinyin": "duì",
+          "example": "我们要对老师有礼貌。"
+        },
+        {
+          "char": "不",
+          "pinyin": "bù",
+          "example": "我不会放弃我的梦想"
+        },
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "example": "好孩子要诚实。"
+        },
+        {
+          "char": "先",
+          "pinyin": "xiān",
+          "example": "我们先完成作业再看电视。"
+        },
+        {
+          "char": "后",
+          "pinyin": "hòu",
+          "example": "放学后，我和同学一起做游戏。"
+        },
+        {
+          "char": "来",
+          "pinyin": "lái",
+          "example": "小明请来我家玩。"
+        },
+        {
+          "char": "等",
+          "pinyin": "děng",
+          "example": "放学后，我在校门口等妈妈。"
+        },
+        {
+          "char": "回",
+          "pinyin": "huí",
+          "example": "我们回到温暖的家中。"
+        }
+      ]
+    },
+    {
+      "id": "day-44",
+      "day": 44,
+      "title": "复习巩固 14",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "车",
+          "pinyin": "chē",
+          "example": "我家新买了一辆车。"
+        },
+        {
+          "char": "船",
+          "pinyin": "chuán",
+          "example": "江上有一只小船。"
+        },
+        {
+          "char": "门",
+          "pinyin": "mén",
+          "example": "请打开门。"
+        },
+        {
+          "char": "路",
+          "pinyin": "lù",
+          "example": "这条路一直通向学校。"
+        },
+        {
+          "char": "桥",
+          "pinyin": "",
+          "example": "认识“桥”这个字。"
+        },
+        {
+          "char": "河",
+          "pinyin": "hé",
+          "example": "小河哗哗地流。"
+        },
+        {
+          "char": "海",
+          "pinyin": "hǎi",
+          "example": "海里有很多鱼。"
+        },
+        {
+          "char": "山",
+          "pinyin": "shān",
+          "example": "我们一起去爬山。"
+        },
+        {
+          "char": "林",
+          "pinyin": "lín",
+          "example": "这片森林很大。"
+        },
+        {
+          "char": "田",
+          "pinyin": "tián",
+          "example": "农民伯伯在田里种稻。"
+        }
+      ]
+    },
+    {
+      "id": "day-45",
+      "day": 45,
+      "title": "复习巩固 15",
+      "focus": "把前面学过的高频字重新放回生活场景里，看一眼、读一眼、说一句。",
+      "items": [
+        {
+          "char": "会",
+          "pinyin": "huì",
+          "example": "我会自己整理书包。"
+        },
+        {
+          "char": "爱",
+          "pinyin": "ài",
+          "example": "我们都要爱惜粮食。"
+        },
+        {
+          "char": "心",
+          "pinyin": "",
+          "example": "认识“心”这个字。"
+        },
+        {
+          "char": "友",
+          "pinyin": "",
+          "example": "认识“友”这个字。"
+        },
+        {
+          "char": "家",
+          "pinyin": "jiā",
+          "example": "每天放学后，我都回到温暖的家。"
+        },
+        {
+          "char": "学",
+          "pinyin": "xué",
+          "example": "我爱学写字。"
+        },
+        {
+          "char": "书",
+          "pinyin": "shū",
+          "example": "我每天都要读书。"
+        },
+        {
+          "char": "字",
+          "pinyin": "zì",
+          "example": "我们每天都要练字。"
+        },
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "example": "好孩子要诚实。"
+        },
+        {
+          "char": "笑",
+          "pinyin": "xiào",
+          "example": "小明考试得了满分，高兴地笑了。"
+        }
+      ]
+    }
+  ]
+}

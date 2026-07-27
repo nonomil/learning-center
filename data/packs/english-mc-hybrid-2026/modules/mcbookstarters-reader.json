@@ -1,0 +1,86 @@
+{
+  "id": "mcbookstarters-reader",
+  "type": "external-reader",
+  "adapterId": "mayihaoke-reader",
+  "title": "Starters 启蒙阅读",
+  "source": {
+    "provider": "mayihaoke",
+    "series": "mcbookstarters",
+    "baseUrl": "https://mayihaoke.com/mcbookstarters/read",
+    "routePattern": "https://mayihaoke.com/mcbookstarters/read/{chapterSlug}"
+  },
+  "lessons": [
+    {
+      "id": "chapter-01",
+      "title": "第 1 节：Starters 先熟悉",
+      "duration": "约 8 分钟",
+      "summary": "先把注意力放在能听懂一点、能跟读一点，不求快。",
+      "focus": "从启蒙章节里挑出最熟悉的词，听读 1 遍即可。",
+      "objectives": [
+        "听 1 遍",
+        "跟读 1 遍",
+        "说出 2 个熟悉词"
+      ],
+      "checklist": [
+        "先看目标词",
+        "打开外部章节听一遍",
+        "跟读最短的句子",
+        "回到当前项目打勾"
+      ],
+      "completionNote": "学完回来打勾，获得 2 分。",
+      "rewardKey": "starters-chapter",
+      "estimatedMinutes": 8,
+      "source": {
+        "kind": "external-chapter",
+        "adapterId": "mayihaoke-reader",
+        "provider": "mayihaoke",
+        "chapterSlug": "chapter-1",
+        "url": "https://mayihaoke.com/mcbookstarters/read/chapter-1"
+      },
+      "support": {
+        "keywords": [
+          "cat",
+          "bag",
+          "sun"
+        ],
+        "parentTip": "如果孩子更喜欢单词，就只盯住 2-3 个词，不必强求整段完成。"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": "第 2 节：跟读更自然一点",
+      "duration": "约 8 分钟",
+      "summary": "继续用启蒙阅读巩固“能听、能跟、能回来打勾”的完整流程。",
+      "focus": "听读后试着完整跟 1 句，形成一点开口自信。",
+      "objectives": [
+        "听读 1 遍",
+        "跟读 1 句",
+        "回来打勾"
+      ],
+      "checklist": [
+        "先看目标词",
+        "打开章节页听和跟读",
+        "选 1 句完整跟读",
+        "学完回来点完成"
+      ],
+      "completionNote": "完成后可继续去“每周英语复盘”回看本周最喜欢的部分。",
+      "rewardKey": "starters-chapter",
+      "estimatedMinutes": 8,
+      "source": {
+        "kind": "external-chapter",
+        "adapterId": "mayihaoke-reader",
+        "provider": "mayihaoke",
+        "chapterSlug": "chapter-2",
+        "url": "https://mayihaoke.com/mcbookstarters/read/chapter-2"
+      },
+      "support": {
+        "keywords": [
+          "tree",
+          "red",
+          "play"
+        ],
+        "parentTip": "如果孩子这一节状态一般，就只完成听读和 1 个词，也算有收获。"
+      }
+    }
+  ]
+}

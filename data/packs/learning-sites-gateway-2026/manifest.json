@@ -1,0 +1,30 @@
+{
+  "id": "learning-sites-gateway-2026",
+  "title": "幼小衔接学习网站入口包",
+  "coverEmoji": "🧭",
+  "audience": "幼小衔接网站入口",
+  "description": "这是一套把外部学习网站整理进当前项目的入口型资料包。家长先在这里挑入口，再去外部网站学习，学完回来点完成，进度和积分仍然留在同一个项目里。",
+  "moduleCount": 2,
+  "rewardSummary": "每完成 1 次网站学习记录或每周复盘，都能获得成长分",
+  "rewardRules": {
+    "guided-sites": 2,
+    "weekly-review": 4,
+    "default": 1
+  },
+  "modules": [
+    {
+      "id": "guided-sites",
+      "title": "网站学习入口",
+      "emoji": "🌐",
+      "duration": "4 个主题入口",
+      "summary": "官方同步课、查字古诗、少儿阅读和亲子文化拓展都整理成了站内入口。"
+    },
+    {
+      "id": "weekly-review",
+      "title": "每周回看",
+      "emoji": "🗓️",
+      "duration": "每周 1 次",
+      "summary": "每周看一眼：这周用了哪些网站、孩子最喜欢什么、下周还想继续哪个入口。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "classics",
+  "type": "reading",
+  "title": "经典短句",
+  "lessons": [
+    {
+      "id": "item-01",
+      "title": "弟子规一",
+      "content": "父母呼，应勿缓。父母命，行勿懒。",
+      "pinyinContent": "fù mǔ hū， yīng wù huǎn。 fù mǔ mìng， xíng wù lǎn。"
+    },
+    {
+      "id": "item-02",
+      "title": "弟子规二",
+      "content": "出必告，反必面。居有常，业无变。",
+      "pinyinContent": "chū bì gào， fǎn bì miàn。 jū yǒu cháng， yè wú biàn。"
+    },
+    {
+      "id": "item-03",
+      "title": "弟子规三",
+      "content": "长者先，幼者后。长呼人，即代叫。",
+      "pinyinContent": "zhǎng zhě xiān， yòu zhě hòu。 zhǎng hū rén， jí dài jiào。"
+    },
+    {
+      "id": "item-04",
+      "title": "弟子规四",
+      "content": "晨必盥，兼漱口。便溺回，辄净手。",
+      "pinyinContent": "chén bì guàn， jiān shù kǒu。 biàn nì huí， zhé jìng shǒu。"
+    },
+    {
+      "id": "item-05",
+      "title": "礼貌短句一",
+      "content": "见人先问好，说话轻一点。",
+      "pinyinContent": "jiàn rén xiān wèn hǎo， shuō huà qīng yī diǎn。"
+    },
+    {
+      "id": "item-06",
+      "title": "礼貌短句二",
+      "content": "你帮我，我谢谢。做错了，说对不起。",
+      "pinyinContent": "nǐ bāng wǒ， wǒ xiè xiè。 zuò cuò le， shuō duì bù qǐ。"
+    },
+    {
+      "id": "item-07",
+      "title": "礼貌短句三",
+      "content": "排队不着急，轮到我再来。",
+      "pinyinContent": "pái duì bù zháo jí， lún dào wǒ zài lái。"
+    },
+    {
+      "id": "item-08",
+      "title": "礼貌短句四",
+      "content": "借东西，先开口。用完了，快送回。",
+      "pinyinContent": "jiè dōng xī， xiān kāi kǒu。 yòng wán le， kuài sòng huí。"
+    }
+  ]
+}

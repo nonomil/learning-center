@@ -1,0 +1,11 @@
+{
+  "name": "petbank-learning-center",
+  "version": "0.1.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:static": "node scripts/assemble-pages-artifact.mjs",
+    "serve": "node local-server.mjs",
+    "test:contract": "node tests/contract.mjs"
+  }
+}

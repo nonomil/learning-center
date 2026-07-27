@@ -1,0 +1,135 @@
+{
+  "id": "guided-sites",
+  "type": "resource-hub",
+  "title": "网站学习入口",
+  "lessons": [
+    {
+      "id": "day-01",
+      "day": 1,
+      "title": "官方同步课入口",
+      "duration": "第 1 周入口",
+      "focus": "适合先从最稳妥的官方平台开始。家长陪着孩子一起搜“一年级 语文”或“课文朗读”，每次看一个内容就够。",
+      "completionNote": "至少打开 1 个官方入口，完成一次 10-15 分钟的轻量学习，再回来点完成。",
+      "checklist": [
+        "先在当前项目里选入口，再打开外部网站",
+        "站内搜索“一年级 语文”或“课文朗读”",
+        "只看 1 个内容，不需要学很久",
+        "学完回来点完成"
+      ],
+      "resources": [
+        {
+          "title": "国家中小学智慧教育平台",
+          "url": "https://basic.smartedu.cn/",
+          "sourceType": "官方",
+          "keywords": "站内搜：一年级 语文",
+          "description": "教育部平台，可找一年级语文同步课、课文朗读和拓展阅读资源。",
+          "actionHint": "打开首页后，优先搜索“一年级 语文”"
+        },
+        {
+          "title": "国家中小学智慧教育平台（读书空间方向）",
+          "url": "https://basic.smartedu.cn/",
+          "sourceType": "官方",
+          "keywords": "找：读书 / 阅读",
+          "description": "同样从官方平台进入，适合家长带孩子找读书分享、课后阅读或轻量朗读资源。",
+          "actionHint": "先从主页进入，再找“读书”或“阅读”相关栏目"
+        }
+      ]
+    },
+    {
+      "id": "day-02",
+      "day": 2,
+      "title": "查字 + 古诗入口",
+      "duration": "第 1 周补充",
+      "focus": "这个入口适合碰到不会读的字、想查拼音、想顺手看一首短古诗的时候使用。更像工具箱，而不是整节课。",
+      "completionNote": "至少打开 1 个查字或古诗入口，带孩子完成一次查字、看诗或跟读。",
+      "checklist": [
+        "先选 1 个工具入口，不要同时打开太多站点",
+        "如果是查字，就只查 1-2 个字",
+        "如果是古诗，就只读 1 首短诗",
+        "学完回到当前项目点完成"
+      ],
+      "resources": [
+        {
+          "title": "汉典",
+          "url": "https://www.zdic.net/",
+          "sourceType": "工具",
+          "keywords": "查：拼音 / 笔顺",
+          "description": "适合家长带孩子查拼音、笔顺、释义，碰到不熟的字时特别实用。",
+          "actionHint": "先查 1 个当前不会的字，不需要一次查很多"
+        },
+        {
+          "title": "古诗文网",
+          "url": "https://www.gushiwen.cn/",
+          "sourceType": "内容站",
+          "keywords": "找：短诗 / 启蒙",
+          "description": "适合挑短一点的古诗做亲子朗读或当天小加餐。",
+          "actionHint": "优先选熟悉、篇幅短的古诗"
+        }
+      ]
+    },
+    {
+      "id": "day-03",
+      "day": 3,
+      "title": "少儿阅读入口",
+      "duration": "第 2 周入口",
+      "focus": "当孩子已经习惯点入口以后，可以开始挑少儿数字资源、故事或轻科普，让阅读入口变得更有趣一点。",
+      "completionNote": "从阅读类入口中选 1 个内容看完或读完，再回来点完成。",
+      "checklist": [
+        "先看入口分类，别急着翻很多页",
+        "挑 1 个孩子感兴趣的主题",
+        "阅读 10-15 分钟就可以",
+        "回来点完成，记住最喜欢的内容"
+      ],
+      "resources": [
+        {
+          "title": "国家图书馆少儿资源",
+          "url": "https://read.nlc.cn/outRes/outResList?type=%E5%B0%91%E5%84%BF%E8%B5%84%E6%BA%90",
+          "sourceType": "官方",
+          "keywords": "少儿数字资源",
+          "description": "国家图书馆公开少儿数字资源入口，适合家长挑故事、科普和轻阅读内容。",
+          "actionHint": "先看分类，再挑 1 个主题进入"
+        },
+        {
+          "title": "国家中小学智慧教育平台",
+          "url": "https://basic.smartedu.cn/",
+          "sourceType": "官方",
+          "keywords": "找：阅读 / 读书",
+          "description": "如果孩子更适合校园语文语境，也可以继续从官方平台里找阅读或读书栏目。",
+          "actionHint": "这次优先找阅读类内容，而不是同步课"
+        }
+      ]
+    },
+    {
+      "id": "day-04",
+      "day": 4,
+      "title": "亲子文化拓展入口",
+      "duration": "第 3 周入口",
+      "focus": "这一节不强调识字多少，而是让孩子觉得“学中文也可以很好玩”。适合做亲子共学、文化拓展或轻探索。",
+      "completionNote": "选 1 个文化入口进行一次轻探索，结束后回来点完成。",
+      "checklist": [
+        "挑 1 个孩子觉得有趣的主题",
+        "家长陪着一起看，不需要孩子独立完成",
+        "过程里可以多聊“看到了什么”",
+        "看完回来点完成"
+      ],
+      "resources": [
+        {
+          "title": "故宫兒藝藏寶閣",
+          "url": "https://theme.npm.edu.tw/children/",
+          "sourceType": "官方",
+          "keywords": "親子 / 文化 / 探索",
+          "description": "故宫亲子学习网站，适合把中文学习和文化主题、视觉探索放在一起。",
+          "actionHint": "先看首页主题，再挑 1 个孩子感兴趣的内容"
+        },
+        {
+          "title": "古诗文网",
+          "url": "https://www.gushiwen.cn/",
+          "sourceType": "内容站",
+          "keywords": "古诗 / 文化",
+          "description": "如果孩子这周更想留在熟悉的语文节奏里，也可以改成看 1 首短诗或 1 段经典短句。",
+          "actionHint": "当作文化小加餐，不需要追求数量"
+        }
+      ]
+    }
+  ]
+}

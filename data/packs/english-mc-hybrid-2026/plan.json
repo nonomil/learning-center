@@ -1,0 +1,65 @@
+{
+  "summary": "整体按“先看目标词，再打开外部点读页，最后回到当前项目打勾”的节奏设计。每天 10 分钟左右就够，重在稳定进入英语状态。",
+  "dailyRoutine": [
+    "先看本节目标词，告诉孩子今天只学一点点",
+    "打开外部点读页，先听 1 遍，再跟读 1 遍",
+    "挑 3 个词或 1 句最顺口的地方再读一次",
+    "学完回到当前项目点完成，累计成长分"
+  ],
+  "weeks": [
+    {
+      "title": "第 1 周",
+      "focus": "先用英语故事建立“敢听、敢跟读”的轻松状态，不求背，只求不抗拒。",
+      "rangeText": "故事：chapter-01 ~ chapter-02",
+      "suggestion": "家长陪读时，多夸“敢开口”和“敢跟着读”，不要纠结发音是否标准。",
+      "actions": [
+        {
+          "label": "打开故事第 1 节",
+          "moduleId": "mcbook56-story",
+          "lessonId": "chapter-01"
+        },
+        {
+          "label": "打开 Starters 第 1 节",
+          "moduleId": "mcbookstarters-reader",
+          "lessonId": "chapter-01"
+        }
+      ]
+    },
+    {
+      "title": "第 2 周",
+      "focus": "继续读故事，同时开始把注意力放到“今天记住 3 个词”上。",
+      "rangeText": "故事：chapter-03 · Starters：chapter-02",
+      "suggestion": "这周只要能说出 2-3 个熟悉词，就算非常成功。",
+      "actions": [
+        {
+          "label": "打开故事第 3 节",
+          "moduleId": "mcbook56-story",
+          "lessonId": "chapter-03"
+        },
+        {
+          "label": "打开 Starters 第 2 节",
+          "moduleId": "mcbookstarters-reader",
+          "lessonId": "chapter-02"
+        }
+      ]
+    },
+    {
+      "title": "第 3 周",
+      "focus": "把前两周读过的内容轻轻回看一遍，再做一次英语复盘。",
+      "rangeText": "复盘：week-01 ~ week-03",
+      "suggestion": "让孩子自己选“最喜欢的那一节”，比家长指定更容易形成主动感。",
+      "actions": [
+        {
+          "label": "打开本周复盘",
+          "moduleId": "english-weekly-review",
+          "lessonId": "week-01"
+        },
+        {
+          "label": "查看自定义入口位",
+          "moduleId": "custom-entry-slot",
+          "lessonId": "day-01"
+        }
+      ]
+    }
+  ]
+}

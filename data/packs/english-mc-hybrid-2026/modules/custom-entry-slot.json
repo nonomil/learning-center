@@ -1,0 +1,30 @@
+{
+  "id": "custom-entry-slot",
+  "type": "resource-hub",
+  "title": "自定义资料入口位",
+  "lessons": [
+    {
+      "id": "day-01",
+      "day": 1,
+      "title": "预留：家长自定义英语资料",
+      "duration": "接口预留",
+      "focus": "这里先作为统一入口位，后续可以接老师发来的网页、家长自整理的链接，或者新的英语阅读网站。",
+      "completionNote": "当前这一节主要是告诉家长：学习中心后续支持更多自定义资料来源。",
+      "checklist": [
+        "确认这里未来可以接自定义链接",
+        "理解资料包不会只绑定一个网站",
+        "后续可以替换成老师或家长自己的资料"
+      ],
+      "resources": [
+        {
+          "title": "示例：剑桥词汇入口",
+          "url": "https://mayihaoke.com/cambridge-vocab",
+          "sourceType": "扩展示例",
+          "keywords": "YLE / KET / PET",
+          "description": "这是一个扩展示例，表示后续不仅能接故事，还能接词汇型英语资料。",
+          "actionHint": "这一节当前主要用于展示“可扩展接口”思路"
+        }
+      ]
+    }
+  ]
+}
