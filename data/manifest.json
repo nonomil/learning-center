@@ -17,6 +17,7 @@
       "title": "中文学习起步包",
       "audience": "从幼小衔接到小学",
       "emoji": "📚",
+      "image": "assets/packs/chinese-bridge.webp",
       "summary": "晨读、识字、古诗和每周复盘，适合每天轻量推进。",
       "plan": "data/packs/summer-chinese-bridge-2026/plan.json",
       "modules": [
@@ -32,6 +33,7 @@
       "title": "学习网站入口包",
       "audience": "官方课程、工具和阅读入口",
       "emoji": "🧭",
+      "image": "assets/packs/learning-sites.webp",
       "summary": "先在学习中心选择入口，再打开外部网站学习，回来留下完成记录。",
       "plan": "data/packs/learning-sites-gateway-2026/plan.json",
       "modules": [
@@ -44,6 +46,7 @@
       "title": "Minecraft 英语故事",
       "audience": "英语故事、跟读和单词衔接",
       "emoji": "🧩",
+      "image": "assets/packs/english-story.webp",
       "summary": "先听故事、跟读和记录，再把需要反复练习的单词交给独立单词项目。",
       "plan": "data/packs/english-mc-hybrid-2026/plan.json",
       "modules": [
